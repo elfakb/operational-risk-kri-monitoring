@@ -1,0 +1,18 @@
+priority,business_unit,trigger,risk_category,recommended_action,owner,target_days
+P1,Operations,open_actions (red),Data Entry Errors,Review the backlog with action owners and reprioritise resources,Operations Risk Owner,14
+P1,Operations,overdue_action_rate (red),Data Entry Errors,Escalate overdue actions to the unit head and agree revised dates,Operations Risk Owner,14
+P1,Payments,open_actions (red),Payment Errors,Review the backlog with action owners and reprioritise resources,Payments Risk Owner,14
+P1,Retail Banking,open_actions (red),Payment Errors,Review the backlog with action owners and reprioritise resources,Retail Banking Risk Owner,14
+P1,Retail Banking,outage_minutes (red),System Outages,"Run a post-incident review, verify failover and capacity, report SLA breach to management",Retail Banking Risk Owner,14
+P1,Treasury,open_actions (red),Reconciliation Breaks,Review the backlog with action owners and reprioritise resources,Treasury Risk Owner,14
+P1,Treasury,repeat_rate (red),Reconciliation Breaks,Prioritise a permanent fix for repeated root causes and verify closed actions were effective,Treasury Risk Owner,14
+P1,Treasury,loss_amount (red),Unauthorized Transaction Attempts,Review the largest loss events and assess control failures,Treasury Risk Owner,14
+P2,All,risk matrix (High),Unauthorized Transaction Attempts,Review the control framework for Unauthorized Transaction Attempts and agree mitigation owners,Head of Operational Risk,30
+P2,All,risk matrix (High),Payment Errors,Review the control framework for Payment Errors and agree mitigation owners,Head of Operational Risk,30
+P2,All,risk matrix (High),Reconciliation Breaks,Review the control framework for Reconciliation Breaks and agree mitigation owners,Head of Operational Risk,30
+P2,Operations,incidents_per_1000_tx (amber),Data Entry Errors,Review top root causes of the unit and open a control improvement ticket,Operations Risk Owner,30
+P2,Payments,overdue_action_rate (amber),Payment Errors,Escalate overdue actions to the unit head and agree revised dates,Payments Risk Owner,30
+P2,Payments,payment_failure_rate (amber),Payment Errors,Start a root cause review of the payment flow and notify the payments operations lead,Payments Risk Owner,30
+P2,Payments,repeat_rate (amber),Payment Errors,Prioritise a permanent fix for repeated root causes and verify closed actions were effective,Payments Risk Owner,30
+P2,Retail Banking,overdue_action_rate (amber),Payment Errors,Escalate overdue actions to the unit head and agree revised dates,Retail Banking Risk Owner,30
+P2,Treasury,incidents_per_1000_tx (amber),Reconciliation Breaks,Review top root causes of the unit and open a control improvement ticket,Treasury Risk Owner,30

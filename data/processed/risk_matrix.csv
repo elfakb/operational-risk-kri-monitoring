@@ -1,0 +1,7 @@
+risk_category,window_start,window_end,mean_monthly_incidents,total_loss,mean_loss,p95_loss,loss_share_pct,likelihood,impact,score,rating,alerts_in_window,priority_rank
+Unauthorized Transaction Attempts,2024-01,2024-12,7.83,6979804.0,74253.0,438047.0,45.9,2,5,10,High,5,1
+Payment Errors,2024-01,2024-12,29.5,2686140.0,7588.0,29288.0,17.7,5,2,10,High,15,2
+Reconciliation Breaks,2024-01,2024-12,24.58,1594476.0,5405.0,22470.0,10.5,5,2,10,High,8,3
+System Outages,2024-01,2024-12,11.58,1908080.0,13727.0,54423.0,12.5,3,3,9,Medium,7,4
+Process Breaches,2024-01,2024-12,16.08,1318788.0,6833.0,25656.0,8.7,4,2,8,Medium,5,5
+Data Entry Errors,2024-01,2024-12,28.67,723345.0,2103.0,8068.0,4.8,5,1,5,Medium,13,6

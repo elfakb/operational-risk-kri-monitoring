@@ -1,0 +1,1261 @@
+business_unit,month,month_no,period,kri,value,amber_threshold,red_threshold,status,trend_watch
+Corporate Banking,2022-01,1,baseline,incidents_per_1000_tx,0.993542,1.958451,2.276108,green,0
+Corporate Banking,2022-02,2,baseline,incidents_per_1000_tx,1.676165,1.958451,2.276108,green,0
+Corporate Banking,2022-03,3,baseline,incidents_per_1000_tx,1.658925,1.958451,2.276108,green,0
+Corporate Banking,2022-04,4,baseline,incidents_per_1000_tx,0.785546,1.958451,2.276108,green,0
+Corporate Banking,2022-05,5,baseline,incidents_per_1000_tx,1.24108,1.958451,2.276108,green,0
+Corporate Banking,2022-06,6,baseline,incidents_per_1000_tx,0.92707,1.958451,2.276108,green,0
+Corporate Banking,2022-07,7,baseline,incidents_per_1000_tx,1.427665,1.958451,2.276108,green,0
+Corporate Banking,2022-08,8,baseline,incidents_per_1000_tx,1.528585,1.958451,2.276108,green,0
+Corporate Banking,2022-09,9,baseline,incidents_per_1000_tx,1.366743,1.958451,2.276108,green,0
+Corporate Banking,2022-10,10,baseline,incidents_per_1000_tx,1.798831,1.958451,2.276108,green,0
+Corporate Banking,2022-11,11,baseline,incidents_per_1000_tx,1.323627,1.958451,2.276108,green,0
+Corporate Banking,2022-12,12,baseline,incidents_per_1000_tx,1.149866,1.958451,2.276108,green,0
+Corporate Banking,2023-01,13,test,incidents_per_1000_tx,1.291804,1.958451,2.276108,green,0
+Corporate Banking,2023-02,14,test,incidents_per_1000_tx,2.170767,1.958451,2.276108,amber,0
+Corporate Banking,2023-03,15,test,incidents_per_1000_tx,1.423285,1.958451,2.276108,green,0
+Corporate Banking,2023-04,16,test,incidents_per_1000_tx,1.534598,1.958451,2.276108,green,0
+Corporate Banking,2023-05,17,test,incidents_per_1000_tx,1.324503,1.958451,2.276108,green,0
+Corporate Banking,2023-06,18,test,incidents_per_1000_tx,1.547552,1.958451,2.276108,green,0
+Corporate Banking,2023-07,19,test,incidents_per_1000_tx,1.259446,1.958451,2.276108,green,0
+Corporate Banking,2023-08,20,test,incidents_per_1000_tx,2.089136,1.958451,2.276108,amber,0
+Corporate Banking,2023-09,21,test,incidents_per_1000_tx,1.227329,1.958451,2.276108,green,0
+Corporate Banking,2023-10,22,test,incidents_per_1000_tx,2.050493,1.958451,2.276108,amber,0
+Corporate Banking,2023-11,23,test,incidents_per_1000_tx,1.361218,1.958451,2.276108,green,0
+Corporate Banking,2023-12,24,test,incidents_per_1000_tx,1.77482,1.958451,2.276108,green,0
+Corporate Banking,2024-01,25,test,incidents_per_1000_tx,1.642486,1.958451,2.276108,green,0
+Corporate Banking,2024-02,26,test,incidents_per_1000_tx,1.689848,1.958451,2.276108,green,0
+Corporate Banking,2024-03,27,test,incidents_per_1000_tx,1.775073,1.958451,2.276108,green,0
+Corporate Banking,2024-04,28,test,incidents_per_1000_tx,1.735465,1.958451,2.276108,green,0
+Corporate Banking,2024-05,29,test,incidents_per_1000_tx,1.345237,1.958451,2.276108,green,0
+Corporate Banking,2024-06,30,test,incidents_per_1000_tx,2.294963,1.958451,2.276108,red,0
+Corporate Banking,2024-07,31,test,incidents_per_1000_tx,1.979708,1.958451,2.276108,amber,0
+Corporate Banking,2024-08,32,test,incidents_per_1000_tx,1.720959,1.958451,2.276108,green,0
+Corporate Banking,2024-09,33,test,incidents_per_1000_tx,1.287152,1.958451,2.276108,green,0
+Corporate Banking,2024-10,34,test,incidents_per_1000_tx,1.195172,1.958451,2.276108,green,0
+Corporate Banking,2024-11,35,test,incidents_per_1000_tx,1.223446,1.958451,2.276108,green,0
+Corporate Banking,2024-12,36,test,incidents_per_1000_tx,1.363255,1.958451,2.276108,green,0
+Corporate Banking,2022-01,1,baseline,loss_amount,274046.4,270269.876004,348509.387339,amber,0
+Corporate Banking,2022-02,2,baseline,loss_amount,102552.89,270269.876004,348509.387339,green,0
+Corporate Banking,2022-03,3,baseline,loss_amount,48603.9,270269.876004,348509.387339,green,0
+Corporate Banking,2022-04,4,baseline,loss_amount,231796.29,270269.876004,348509.387339,green,0
+Corporate Banking,2022-05,5,baseline,loss_amount,42244.52,270269.876004,348509.387339,green,0
+Corporate Banking,2022-06,6,baseline,loss_amount,53179.83,270269.876004,348509.387339,green,0
+Corporate Banking,2022-07,7,baseline,loss_amount,57743.17,270269.876004,348509.387339,green,0
+Corporate Banking,2022-08,8,baseline,loss_amount,60410.38,270269.876004,348509.387339,green,0
+Corporate Banking,2022-09,9,baseline,loss_amount,127789.01,270269.876004,348509.387339,green,0
+Corporate Banking,2022-10,10,baseline,loss_amount,195341.01,270269.876004,348509.387339,green,0
+Corporate Banking,2022-11,11,baseline,loss_amount,95011.55,270269.876004,348509.387339,green,0
+Corporate Banking,2022-12,12,baseline,loss_amount,76771.29,270269.876004,348509.387339,green,0
+Corporate Banking,2023-01,13,test,loss_amount,21615.32,270269.876004,348509.387339,green,0
+Corporate Banking,2023-02,14,test,loss_amount,85603.19,270269.876004,348509.387339,green,0
+Corporate Banking,2023-03,15,test,loss_amount,120974.39,270269.876004,348509.387339,green,0
+Corporate Banking,2023-04,16,test,loss_amount,19704.94,270269.876004,348509.387339,green,0
+Corporate Banking,2023-05,17,test,loss_amount,27886.5,270269.876004,348509.387339,green,0
+Corporate Banking,2023-06,18,test,loss_amount,25128.37,270269.876004,348509.387339,green,0
+Corporate Banking,2023-07,19,test,loss_amount,21698.55,270269.876004,348509.387339,green,0
+Corporate Banking,2023-08,20,test,loss_amount,202205.97,270269.876004,348509.387339,green,0
+Corporate Banking,2023-09,21,test,loss_amount,53944.74,270269.876004,348509.387339,green,0
+Corporate Banking,2023-10,22,test,loss_amount,442629.81,270269.876004,348509.387339,red,0
+Corporate Banking,2023-11,23,test,loss_amount,56824.57,270269.876004,348509.387339,green,0
+Corporate Banking,2023-12,24,test,loss_amount,136120.19,270269.876004,348509.387339,green,0
+Corporate Banking,2024-01,25,test,loss_amount,76621.32,270269.876004,348509.387339,green,0
+Corporate Banking,2024-02,26,test,loss_amount,55072.92,270269.876004,348509.387339,green,0
+Corporate Banking,2024-03,27,test,loss_amount,55308.59,270269.876004,348509.387339,green,0
+Corporate Banking,2024-04,28,test,loss_amount,102629.36,270269.876004,348509.387339,green,0
+Corporate Banking,2024-05,29,test,loss_amount,124417.56,270269.876004,348509.387339,green,0
+Corporate Banking,2024-06,30,test,loss_amount,117142.77,270269.876004,348509.387339,green,0
+Corporate Banking,2024-07,31,test,loss_amount,58324.09,270269.876004,348509.387339,green,0
+Corporate Banking,2024-08,32,test,loss_amount,53334.6,270269.876004,348509.387339,green,0
+Corporate Banking,2024-09,33,test,loss_amount,151919.89,270269.876004,348509.387339,green,0
+Corporate Banking,2024-10,34,test,loss_amount,41364.71,270269.876004,348509.387339,green,0
+Corporate Banking,2024-11,35,test,loss_amount,49535.35,270269.876004,348509.387339,green,0
+Corporate Banking,2024-12,36,test,loss_amount,70457.86,270269.876004,348509.387339,green,0
+Corporate Banking,2022-01,1,baseline,open_actions,4.0,11.7,12.0,green,0
+Corporate Banking,2022-02,2,baseline,open_actions,7.0,11.7,12.0,green,0
+Corporate Banking,2022-03,3,baseline,open_actions,3.0,11.7,12.0,green,0
+Corporate Banking,2022-04,4,baseline,open_actions,6.0,11.7,12.0,green,0
+Corporate Banking,2022-05,5,baseline,open_actions,4.0,11.7,12.0,green,0
+Corporate Banking,2022-06,6,baseline,open_actions,5.0,11.7,12.0,green,0
+Corporate Banking,2022-07,7,baseline,open_actions,6.0,11.7,12.0,green,0
+Corporate Banking,2022-08,8,baseline,open_actions,8.0,11.7,12.0,green,0
+Corporate Banking,2022-09,9,baseline,open_actions,9.0,11.7,12.0,green,0
+Corporate Banking,2022-10,10,baseline,open_actions,12.0,11.7,12.0,red,0
+Corporate Banking,2022-11,11,baseline,open_actions,12.0,11.7,12.0,red,0
+Corporate Banking,2022-12,12,baseline,open_actions,6.0,11.7,12.0,green,0
+Corporate Banking,2023-01,13,test,open_actions,4.0,11.7,12.0,green,0
+Corporate Banking,2023-02,14,test,open_actions,8.0,11.7,12.0,green,0
+Corporate Banking,2023-03,15,test,open_actions,9.0,11.7,12.0,green,0
+Corporate Banking,2023-04,16,test,open_actions,6.0,11.7,12.0,green,0
+Corporate Banking,2023-05,17,test,open_actions,8.0,11.7,12.0,green,0
+Corporate Banking,2023-06,18,test,open_actions,7.0,11.7,12.0,green,0
+Corporate Banking,2023-07,19,test,open_actions,1.0,11.7,12.0,green,0
+Corporate Banking,2023-08,20,test,open_actions,3.0,11.7,12.0,green,0
+Corporate Banking,2023-09,21,test,open_actions,2.0,11.7,12.0,green,0
+Corporate Banking,2023-10,22,test,open_actions,8.0,11.7,12.0,green,0
+Corporate Banking,2023-11,23,test,open_actions,9.0,11.7,12.0,green,0
+Corporate Banking,2023-12,24,test,open_actions,9.0,11.7,12.0,green,0
+Corporate Banking,2024-01,25,test,open_actions,8.0,11.7,12.0,green,0
+Corporate Banking,2024-02,26,test,open_actions,7.0,11.7,12.0,green,0
+Corporate Banking,2024-03,27,test,open_actions,6.0,11.7,12.0,green,0
+Corporate Banking,2024-04,28,test,open_actions,11.0,11.7,12.0,green,0
+Corporate Banking,2024-05,29,test,open_actions,11.0,11.7,12.0,green,0
+Corporate Banking,2024-06,30,test,open_actions,11.0,11.7,12.0,green,0
+Corporate Banking,2024-07,31,test,open_actions,7.0,11.7,12.0,green,0
+Corporate Banking,2024-08,32,test,open_actions,6.0,11.7,12.0,green,0
+Corporate Banking,2024-09,33,test,open_actions,3.0,11.7,12.0,green,0
+Corporate Banking,2024-10,34,test,open_actions,7.0,11.7,12.0,green,0
+Corporate Banking,2024-11,35,test,open_actions,7.0,11.7,12.0,green,0
+Corporate Banking,2024-12,36,test,open_actions,10.0,11.7,12.0,green,0
+Corporate Banking,2022-01,1,baseline,outage_minutes,8.8,34.56,43.2,green,0
+Corporate Banking,2022-02,2,baseline,outage_minutes,9.8,34.56,43.2,green,0
+Corporate Banking,2022-03,3,baseline,outage_minutes,0.0,34.56,43.2,green,0
+Corporate Banking,2022-04,4,baseline,outage_minutes,0.0,34.56,43.2,green,0
+Corporate Banking,2022-05,5,baseline,outage_minutes,0.0,34.56,43.2,green,0
+Corporate Banking,2022-06,6,baseline,outage_minutes,7.6,34.56,43.2,green,0
+Corporate Banking,2022-07,7,baseline,outage_minutes,15.1,34.56,43.2,green,0
+Corporate Banking,2022-08,8,baseline,outage_minutes,4.4,34.56,43.2,green,0
+Corporate Banking,2022-09,9,baseline,outage_minutes,0.0,34.56,43.2,green,0
+Corporate Banking,2022-10,10,baseline,outage_minutes,12.8,34.56,43.2,green,0
+Corporate Banking,2022-11,11,baseline,outage_minutes,8.2,34.56,43.2,green,0
+Corporate Banking,2022-12,12,baseline,outage_minutes,94.0,34.56,43.2,red,0
+Corporate Banking,2023-01,13,test,outage_minutes,0.0,34.56,43.2,green,0
+Corporate Banking,2023-02,14,test,outage_minutes,1.3,34.56,43.2,green,0
+Corporate Banking,2023-03,15,test,outage_minutes,0.0,34.56,43.2,green,0
+Corporate Banking,2023-04,16,test,outage_minutes,0.0,34.56,43.2,green,0
+Corporate Banking,2023-05,17,test,outage_minutes,0.0,34.56,43.2,green,0
+Corporate Banking,2023-06,18,test,outage_minutes,0.0,34.56,43.2,green,0
+Corporate Banking,2023-07,19,test,outage_minutes,0.0,34.56,43.2,green,0
+Corporate Banking,2023-08,20,test,outage_minutes,5.7,34.56,43.2,green,0
+Corporate Banking,2023-09,21,test,outage_minutes,11.9,34.56,43.2,green,0
+Corporate Banking,2023-10,22,test,outage_minutes,23.8,34.56,43.2,green,0
+Corporate Banking,2023-11,23,test,outage_minutes,7.5,34.56,43.2,green,0
+Corporate Banking,2023-12,24,test,outage_minutes,0.0,34.56,43.2,green,0
+Corporate Banking,2024-01,25,test,outage_minutes,13.9,34.56,43.2,green,0
+Corporate Banking,2024-02,26,test,outage_minutes,0.0,34.56,43.2,green,0
+Corporate Banking,2024-03,27,test,outage_minutes,8.9,34.56,43.2,green,0
+Corporate Banking,2024-04,28,test,outage_minutes,20.7,34.56,43.2,green,0
+Corporate Banking,2024-05,29,test,outage_minutes,0.0,34.56,43.2,green,0
+Corporate Banking,2024-06,30,test,outage_minutes,9.1,34.56,43.2,green,0
+Corporate Banking,2024-07,31,test,outage_minutes,1.9,34.56,43.2,green,0
+Corporate Banking,2024-08,32,test,outage_minutes,0.0,34.56,43.2,green,0
+Corporate Banking,2024-09,33,test,outage_minutes,9.8,34.56,43.2,green,0
+Corporate Banking,2024-10,34,test,outage_minutes,0.0,34.56,43.2,green,0
+Corporate Banking,2024-11,35,test,outage_minutes,0.0,34.56,43.2,green,0
+Corporate Banking,2024-12,36,test,outage_minutes,5.9,34.56,43.2,green,0
+Corporate Banking,2022-01,1,baseline,overdue_action_rate,,0.15,0.3,n/m,0
+Corporate Banking,2022-02,2,baseline,overdue_action_rate,0.0,0.15,0.3,green,0
+Corporate Banking,2022-03,3,baseline,overdue_action_rate,,0.15,0.3,n/m,0
+Corporate Banking,2022-04,4,baseline,overdue_action_rate,0.0,0.15,0.3,green,0
+Corporate Banking,2022-05,5,baseline,overdue_action_rate,,0.15,0.3,n/m,0
+Corporate Banking,2022-06,6,baseline,overdue_action_rate,0.0,0.15,0.3,green,0
+Corporate Banking,2022-07,7,baseline,overdue_action_rate,0.0,0.15,0.3,green,0
+Corporate Banking,2022-08,8,baseline,overdue_action_rate,0.0,0.15,0.3,green,0
+Corporate Banking,2022-09,9,baseline,overdue_action_rate,0.0,0.15,0.3,green,0
+Corporate Banking,2022-10,10,baseline,overdue_action_rate,0.083333,0.15,0.3,green,0
+Corporate Banking,2022-11,11,baseline,overdue_action_rate,0.083333,0.15,0.3,green,0
+Corporate Banking,2022-12,12,baseline,overdue_action_rate,0.0,0.15,0.3,green,0
+Corporate Banking,2023-01,13,test,overdue_action_rate,,0.15,0.3,n/m,0
+Corporate Banking,2023-02,14,test,overdue_action_rate,0.0,0.15,0.3,green,0
+Corporate Banking,2023-03,15,test,overdue_action_rate,0.111111,0.15,0.3,green,0
+Corporate Banking,2023-04,16,test,overdue_action_rate,0.0,0.15,0.3,green,0
+Corporate Banking,2023-05,17,test,overdue_action_rate,0.25,0.15,0.3,amber,0
+Corporate Banking,2023-06,18,test,overdue_action_rate,0.285714,0.15,0.3,amber,0
+Corporate Banking,2023-07,19,test,overdue_action_rate,,0.15,0.3,n/m,0
+Corporate Banking,2023-08,20,test,overdue_action_rate,,0.15,0.3,n/m,0
+Corporate Banking,2023-09,21,test,overdue_action_rate,,0.15,0.3,n/m,0
+Corporate Banking,2023-10,22,test,overdue_action_rate,0.0,0.15,0.3,green,0
+Corporate Banking,2023-11,23,test,overdue_action_rate,0.0,0.15,0.3,green,0
+Corporate Banking,2023-12,24,test,overdue_action_rate,0.111111,0.15,0.3,green,0
+Corporate Banking,2024-01,25,test,overdue_action_rate,0.0,0.15,0.3,green,0
+Corporate Banking,2024-02,26,test,overdue_action_rate,0.0,0.15,0.3,green,0
+Corporate Banking,2024-03,27,test,overdue_action_rate,0.166667,0.15,0.3,amber,0
+Corporate Banking,2024-04,28,test,overdue_action_rate,0.090909,0.15,0.3,green,0
+Corporate Banking,2024-05,29,test,overdue_action_rate,0.090909,0.15,0.3,green,0
+Corporate Banking,2024-06,30,test,overdue_action_rate,0.090909,0.15,0.3,green,0
+Corporate Banking,2024-07,31,test,overdue_action_rate,0.142857,0.15,0.3,green,0
+Corporate Banking,2024-08,32,test,overdue_action_rate,0.166667,0.15,0.3,amber,0
+Corporate Banking,2024-09,33,test,overdue_action_rate,,0.15,0.3,n/m,0
+Corporate Banking,2024-10,34,test,overdue_action_rate,0.142857,0.15,0.3,green,0
+Corporate Banking,2024-11,35,test,overdue_action_rate,0.142857,0.15,0.3,green,0
+Corporate Banking,2024-12,36,test,overdue_action_rate,0.1,0.15,0.3,green,0
+Corporate Banking,2022-01,1,baseline,payment_failure_rate,0.000331,0.003,0.005,green,0
+Corporate Banking,2022-02,2,baseline,payment_failure_rate,0.001006,0.003,0.005,green,0
+Corporate Banking,2022-03,3,baseline,payment_failure_rate,0.001327,0.003,0.005,green,0
+Corporate Banking,2022-04,4,baseline,payment_failure_rate,0.000629,0.003,0.005,green,0
+Corporate Banking,2022-05,5,baseline,payment_failure_rate,0.000621,0.003,0.005,green,0
+Corporate Banking,2022-06,6,baseline,payment_failure_rate,0.000309,0.003,0.005,green,0
+Corporate Banking,2022-07,7,baseline,payment_failure_rate,0.000635,0.003,0.005,green,0
+Corporate Banking,2022-08,8,baseline,payment_failure_rate,0.001529,0.003,0.005,green,0
+Corporate Banking,2022-09,9,baseline,payment_failure_rate,0.000911,0.003,0.005,green,0
+Corporate Banking,2022-10,10,baseline,payment_failure_rate,0.001799,0.003,0.005,green,0
+Corporate Banking,2022-11,11,baseline,payment_failure_rate,0.001059,0.003,0.005,green,0
+Corporate Banking,2022-12,12,baseline,payment_failure_rate,0.001022,0.003,0.005,green,0
+Corporate Banking,2023-01,13,test,payment_failure_rate,0.000861,0.003,0.005,green,0
+Corporate Banking,2023-02,14,test,payment_failure_rate,0.000868,0.003,0.005,green,0
+Corporate Banking,2023-03,15,test,payment_failure_rate,0.000285,0.003,0.005,green,0
+Corporate Banking,2023-04,16,test,payment_failure_rate,0.000837,0.003,0.005,green,0
+Corporate Banking,2023-05,17,test,payment_failure_rate,0.000589,0.003,0.005,green,0
+Corporate Banking,2023-06,18,test,payment_failure_rate,0.000844,0.003,0.005,green,0
+Corporate Banking,2023-07,19,test,payment_failure_rate,0.00056,0.003,0.005,green,0
+Corporate Banking,2023-08,20,test,payment_failure_rate,0.001671,0.003,0.005,green,0
+Corporate Banking,2023-09,21,test,payment_failure_rate,0.000818,0.003,0.005,green,0
+Corporate Banking,2023-10,22,test,payment_failure_rate,0.000513,0.003,0.005,green,0
+Corporate Banking,2023-11,23,test,payment_failure_rate,0.001238,0.003,0.005,green,0
+Corporate Banking,2023-12,24,test,payment_failure_rate,0.000666,0.003,0.005,green,0
+Corporate Banking,2024-01,25,test,payment_failure_rate,0.001642,0.003,0.005,green,0
+Corporate Banking,2024-02,26,test,payment_failure_rate,0.0013,0.003,0.005,green,0
+Corporate Banking,2024-03,27,test,payment_failure_rate,0.000761,0.003,0.005,green,0
+Corporate Banking,2024-04,28,test,payment_failure_rate,0.00124,0.003,0.005,green,0
+Corporate Banking,2024-05,29,test,payment_failure_rate,0.001712,0.003,0.005,green,0
+Corporate Banking,2024-06,30,test,payment_failure_rate,0.001208,0.003,0.005,green,0
+Corporate Banking,2024-07,31,test,payment_failure_rate,0.002227,0.003,0.005,green,0
+Corporate Banking,2024-08,32,test,payment_failure_rate,0.000984,0.003,0.005,green,0
+Corporate Banking,2024-09,33,test,payment_failure_rate,0.000702,0.003,0.005,green,0
+Corporate Banking,2024-10,34,test,payment_failure_rate,0.000956,0.003,0.005,green,0
+Corporate Banking,2024-11,35,test,payment_failure_rate,0.000667,0.003,0.005,green,0
+Corporate Banking,2024-12,36,test,payment_failure_rate,0.00021,0.003,0.005,green,0
+Corporate Banking,2022-01,1,baseline,repeat_rate,0.0,0.306923,0.39533,green,0
+Corporate Banking,2022-02,2,baseline,repeat_rate,0.083333,0.306923,0.39533,green,0
+Corporate Banking,2022-03,3,baseline,repeat_rate,0.3,0.306923,0.39533,green,0
+Corporate Banking,2022-04,4,baseline,repeat_rate,0.428571,0.306923,0.39533,red,0
+Corporate Banking,2022-05,5,baseline,repeat_rate,0.25,0.306923,0.39533,green,0
+Corporate Banking,2022-06,6,baseline,repeat_rate,0.142857,0.306923,0.39533,green,0
+Corporate Banking,2022-07,7,baseline,repeat_rate,0.090909,0.306923,0.39533,green,0
+Corporate Banking,2022-08,8,baseline,repeat_rate,0.0,0.306923,0.39533,green,0
+Corporate Banking,2022-09,9,baseline,repeat_rate,0.1,0.306923,0.39533,green,0
+Corporate Banking,2022-10,10,baseline,repeat_rate,0.266667,0.306923,0.39533,green,0
+Corporate Banking,2022-11,11,baseline,repeat_rate,0.25,0.306923,0.39533,green,0
+Corporate Banking,2022-12,12,baseline,repeat_rate,0.307692,0.306923,0.39533,amber,0
+Corporate Banking,2023-01,13,test,repeat_rate,0.0,0.306923,0.39533,green,0
+Corporate Banking,2023-02,14,test,repeat_rate,0.3125,0.306923,0.39533,amber,0
+Corporate Banking,2023-03,15,test,repeat_rate,0.363636,0.306923,0.39533,amber,0
+Corporate Banking,2023-04,16,test,repeat_rate,0.454545,0.306923,0.39533,red,0
+Corporate Banking,2023-05,17,test,repeat_rate,0.0,0.306923,0.39533,green,0
+Corporate Banking,2023-06,18,test,repeat_rate,0.090909,0.306923,0.39533,green,0
+Corporate Banking,2023-07,19,test,repeat_rate,0.333333,0.306923,0.39533,amber,0
+Corporate Banking,2023-08,20,test,repeat_rate,0.294118,0.306923,0.39533,green,0
+Corporate Banking,2023-09,21,test,repeat_rate,0.166667,0.306923,0.39533,green,0
+Corporate Banking,2023-10,22,test,repeat_rate,0.15,0.306923,0.39533,green,0
+Corporate Banking,2023-11,23,test,repeat_rate,0.071429,0.306923,0.39533,green,0
+Corporate Banking,2023-12,24,test,repeat_rate,0.117647,0.306923,0.39533,green,0
+Corporate Banking,2024-01,25,test,repeat_rate,0.461538,0.306923,0.39533,red,0
+Corporate Banking,2024-02,26,test,repeat_rate,0.142857,0.306923,0.39533,green,0
+Corporate Banking,2024-03,27,test,repeat_rate,0.176471,0.306923,0.39533,green,0
+Corporate Banking,2024-04,28,test,repeat_rate,0.375,0.306923,0.39533,amber,0
+Corporate Banking,2024-05,29,test,repeat_rate,0.181818,0.306923,0.39533,green,0
+Corporate Banking,2024-06,30,test,repeat_rate,0.095238,0.306923,0.39533,green,0
+Corporate Banking,2024-07,31,test,repeat_rate,0.470588,0.306923,0.39533,red,0
+Corporate Banking,2024-08,32,test,repeat_rate,0.375,0.306923,0.39533,amber,0
+Corporate Banking,2024-09,33,test,repeat_rate,0.153846,0.306923,0.39533,green,0
+Corporate Banking,2024-10,34,test,repeat_rate,0.166667,0.306923,0.39533,green,0
+Corporate Banking,2024-11,35,test,repeat_rate,0.272727,0.306923,0.39533,green,0
+Corporate Banking,2024-12,36,test,repeat_rate,0.266667,0.306923,0.39533,green,0
+Operations,2022-01,1,baseline,incidents_per_1000_tx,0.67659,1.139462,1.274314,green,0
+Operations,2022-02,2,baseline,incidents_per_1000_tx,0.860357,1.139462,1.274314,green,0
+Operations,2022-03,3,baseline,incidents_per_1000_tx,1.120633,1.139462,1.274314,green,0
+Operations,2022-04,4,baseline,incidents_per_1000_tx,0.900727,1.139462,1.274314,green,0
+Operations,2022-05,5,baseline,incidents_per_1000_tx,0.921999,1.139462,1.274314,green,0
+Operations,2022-06,6,baseline,incidents_per_1000_tx,0.687629,1.139462,1.274314,green,0
+Operations,2022-07,7,baseline,incidents_per_1000_tx,0.749766,1.139462,1.274314,green,0
+Operations,2022-08,8,baseline,incidents_per_1000_tx,0.762486,1.139462,1.274314,green,0
+Operations,2022-09,9,baseline,incidents_per_1000_tx,1.026892,1.139462,1.274314,green,1
+Operations,2022-10,10,baseline,incidents_per_1000_tx,0.979972,1.139462,1.274314,green,0
+Operations,2022-11,11,baseline,incidents_per_1000_tx,0.870606,1.139462,1.274314,green,0
+Operations,2022-12,12,baseline,incidents_per_1000_tx,0.879422,1.139462,1.274314,green,0
+Operations,2023-01,13,test,incidents_per_1000_tx,0.641849,1.139462,1.274314,green,0
+Operations,2023-02,14,test,incidents_per_1000_tx,0.957746,1.139462,1.274314,green,0
+Operations,2023-03,15,test,incidents_per_1000_tx,1.107678,1.139462,1.274314,green,0
+Operations,2023-04,16,test,incidents_per_1000_tx,0.64847,1.139462,1.274314,green,0
+Operations,2023-05,17,test,incidents_per_1000_tx,0.521739,1.139462,1.274314,green,0
+Operations,2023-06,18,test,incidents_per_1000_tx,1.082559,1.139462,1.274314,green,0
+Operations,2023-07,19,test,incidents_per_1000_tx,0.518726,1.139462,1.274314,green,0
+Operations,2023-08,20,test,incidents_per_1000_tx,0.840289,1.139462,1.274314,green,0
+Operations,2023-09,21,test,incidents_per_1000_tx,0.422164,1.139462,1.274314,green,0
+Operations,2023-10,22,test,incidents_per_1000_tx,1.431403,1.139462,1.274314,red,0
+Operations,2023-11,23,test,incidents_per_1000_tx,0.891098,1.139462,1.274314,green,0
+Operations,2023-12,24,test,incidents_per_1000_tx,1.17355,1.139462,1.274314,amber,0
+Operations,2024-01,25,test,incidents_per_1000_tx,0.940144,1.139462,1.274314,green,0
+Operations,2024-02,26,test,incidents_per_1000_tx,0.979129,1.139462,1.274314,green,0
+Operations,2024-03,27,test,incidents_per_1000_tx,0.935697,1.139462,1.274314,green,0
+Operations,2024-04,28,test,incidents_per_1000_tx,1.493726,1.139462,1.274314,red,0
+Operations,2024-05,29,test,incidents_per_1000_tx,1.164911,1.139462,1.274314,amber,0
+Operations,2024-06,30,test,incidents_per_1000_tx,1.437815,1.139462,1.274314,red,0
+Operations,2024-07,31,test,incidents_per_1000_tx,1.629577,1.139462,1.274314,red,0
+Operations,2024-08,32,test,incidents_per_1000_tx,1.157742,1.139462,1.274314,amber,0
+Operations,2024-09,33,test,incidents_per_1000_tx,0.916716,1.139462,1.274314,green,0
+Operations,2024-10,34,test,incidents_per_1000_tx,1.561096,1.139462,1.274314,red,0
+Operations,2024-11,35,test,incidents_per_1000_tx,0.815801,1.139462,1.274314,green,0
+Operations,2024-12,36,test,incidents_per_1000_tx,1.165033,1.139462,1.274314,amber,0
+Operations,2022-01,1,baseline,loss_amount,121929.0,270378.937224,341700.831669,green,0
+Operations,2022-02,2,baseline,loss_amount,78920.78,270378.937224,341700.831669,green,0
+Operations,2022-03,3,baseline,loss_amount,128436.24,270378.937224,341700.831669,green,0
+Operations,2022-04,4,baseline,loss_amount,147006.72,270378.937224,341700.831669,green,0
+Operations,2022-05,5,baseline,loss_amount,59452.21,270378.937224,341700.831669,green,0
+Operations,2022-06,6,baseline,loss_amount,43104.32,270378.937224,341700.831669,green,0
+Operations,2022-07,7,baseline,loss_amount,142828.51,270378.937224,341700.831669,green,0
+Operations,2022-08,8,baseline,loss_amount,95396.13,270378.937224,341700.831669,green,0
+Operations,2022-09,9,baseline,loss_amount,270356.73,270378.937224,341700.831669,green,0
+Operations,2022-10,10,baseline,loss_amount,247996.5,270378.937224,341700.831669,green,0
+Operations,2022-11,11,baseline,loss_amount,56401.68,270378.937224,341700.831669,green,0
+Operations,2022-12,12,baseline,loss_amount,140992.96,270378.937224,341700.831669,green,0
+Operations,2023-01,13,test,loss_amount,27146.51,270378.937224,341700.831669,green,0
+Operations,2023-02,14,test,loss_amount,71267.48,270378.937224,341700.831669,green,0
+Operations,2023-03,15,test,loss_amount,38562.4,270378.937224,341700.831669,green,0
+Operations,2023-04,16,test,loss_amount,153142.12,270378.937224,341700.831669,green,0
+Operations,2023-05,17,test,loss_amount,60729.95,270378.937224,341700.831669,green,0
+Operations,2023-06,18,test,loss_amount,787559.53,270378.937224,341700.831669,red,0
+Operations,2023-07,19,test,loss_amount,12767.6,270378.937224,341700.831669,green,0
+Operations,2023-08,20,test,loss_amount,109807.04,270378.937224,341700.831669,green,0
+Operations,2023-09,21,test,loss_amount,237169.93,270378.937224,341700.831669,green,0
+Operations,2023-10,22,test,loss_amount,139798.1,270378.937224,341700.831669,green,0
+Operations,2023-11,23,test,loss_amount,96859.52,270378.937224,341700.831669,green,0
+Operations,2023-12,24,test,loss_amount,93097.22,270378.937224,341700.831669,green,0
+Operations,2024-01,25,test,loss_amount,68383.63,270378.937224,341700.831669,green,0
+Operations,2024-02,26,test,loss_amount,99618.29,270378.937224,341700.831669,green,0
+Operations,2024-03,27,test,loss_amount,67824.63,270378.937224,341700.831669,green,0
+Operations,2024-04,28,test,loss_amount,140498.86,270378.937224,341700.831669,green,0
+Operations,2024-05,29,test,loss_amount,1523270.74,270378.937224,341700.831669,red,0
+Operations,2024-06,30,test,loss_amount,870460.07,270378.937224,341700.831669,red,0
+Operations,2024-07,31,test,loss_amount,138172.41,270378.937224,341700.831669,green,0
+Operations,2024-08,32,test,loss_amount,170915.74,270378.937224,341700.831669,green,0
+Operations,2024-09,33,test,loss_amount,125521.86,270378.937224,341700.831669,green,0
+Operations,2024-10,34,test,loss_amount,214473.91,270378.937224,341700.831669,green,0
+Operations,2024-11,35,test,loss_amount,75179.87,270378.937224,341700.831669,green,0
+Operations,2024-12,36,test,loss_amount,105637.07,270378.937224,341700.831669,green,0
+Operations,2022-01,1,baseline,open_actions,6.0,10.0,11.45,green,0
+Operations,2022-02,2,baseline,open_actions,8.0,10.0,11.45,green,0
+Operations,2022-03,3,baseline,open_actions,5.0,10.0,11.45,green,0
+Operations,2022-04,4,baseline,open_actions,10.0,10.0,11.45,amber,0
+Operations,2022-05,5,baseline,open_actions,12.0,10.0,11.45,red,0
+Operations,2022-06,6,baseline,open_actions,6.0,10.0,11.45,green,0
+Operations,2022-07,7,baseline,open_actions,7.0,10.0,11.45,green,0
+Operations,2022-08,8,baseline,open_actions,5.0,10.0,11.45,green,0
+Operations,2022-09,9,baseline,open_actions,9.0,10.0,11.45,green,0
+Operations,2022-10,10,baseline,open_actions,10.0,10.0,11.45,amber,0
+Operations,2022-11,11,baseline,open_actions,9.0,10.0,11.45,green,0
+Operations,2022-12,12,baseline,open_actions,9.0,10.0,11.45,green,0
+Operations,2023-01,13,test,open_actions,3.0,10.0,11.45,green,0
+Operations,2023-02,14,test,open_actions,8.0,10.0,11.45,green,0
+Operations,2023-03,15,test,open_actions,7.0,10.0,11.45,green,0
+Operations,2023-04,16,test,open_actions,9.0,10.0,11.45,green,0
+Operations,2023-05,17,test,open_actions,9.0,10.0,11.45,green,0
+Operations,2023-06,18,test,open_actions,8.0,10.0,11.45,green,0
+Operations,2023-07,19,test,open_actions,5.0,10.0,11.45,green,0
+Operations,2023-08,20,test,open_actions,11.0,10.0,11.45,amber,0
+Operations,2023-09,21,test,open_actions,14.0,10.0,11.45,red,0
+Operations,2023-10,22,test,open_actions,23.0,10.0,11.45,red,0
+Operations,2023-11,23,test,open_actions,22.0,10.0,11.45,red,0
+Operations,2023-12,24,test,open_actions,23.0,10.0,11.45,red,0
+Operations,2024-01,25,test,open_actions,21.0,10.0,11.45,red,0
+Operations,2024-02,26,test,open_actions,22.0,10.0,11.45,red,0
+Operations,2024-03,27,test,open_actions,23.0,10.0,11.45,red,0
+Operations,2024-04,28,test,open_actions,32.0,10.0,11.45,red,0
+Operations,2024-05,29,test,open_actions,35.0,10.0,11.45,red,0
+Operations,2024-06,30,test,open_actions,36.0,10.0,11.45,red,0
+Operations,2024-07,31,test,open_actions,35.0,10.0,11.45,red,0
+Operations,2024-08,32,test,open_actions,37.0,10.0,11.45,red,0
+Operations,2024-09,33,test,open_actions,32.0,10.0,11.45,red,0
+Operations,2024-10,34,test,open_actions,35.0,10.0,11.45,red,0
+Operations,2024-11,35,test,open_actions,29.0,10.0,11.45,red,0
+Operations,2024-12,36,test,open_actions,25.0,10.0,11.45,red,0
+Operations,2022-01,1,baseline,outage_minutes,0.0,34.56,43.2,green,0
+Operations,2022-02,2,baseline,outage_minutes,8.1,34.56,43.2,green,0
+Operations,2022-03,3,baseline,outage_minutes,0.0,34.56,43.2,green,0
+Operations,2022-04,4,baseline,outage_minutes,35.4,34.56,43.2,amber,0
+Operations,2022-05,5,baseline,outage_minutes,11.5,34.56,43.2,green,0
+Operations,2022-06,6,baseline,outage_minutes,13.0,34.56,43.2,green,0
+Operations,2022-07,7,baseline,outage_minutes,30.7,34.56,43.2,green,0
+Operations,2022-08,8,baseline,outage_minutes,11.1,34.56,43.2,green,0
+Operations,2022-09,9,baseline,outage_minutes,12.3,34.56,43.2,green,0
+Operations,2022-10,10,baseline,outage_minutes,7.1,34.56,43.2,green,0
+Operations,2022-11,11,baseline,outage_minutes,18.1,34.56,43.2,green,0
+Operations,2022-12,12,baseline,outage_minutes,25.7,34.56,43.2,green,0
+Operations,2023-01,13,test,outage_minutes,17.4,34.56,43.2,green,0
+Operations,2023-02,14,test,outage_minutes,1.8,34.56,43.2,green,0
+Operations,2023-03,15,test,outage_minutes,0.0,34.56,43.2,green,0
+Operations,2023-04,16,test,outage_minutes,5.3,34.56,43.2,green,0
+Operations,2023-05,17,test,outage_minutes,3.9,34.56,43.2,green,0
+Operations,2023-06,18,test,outage_minutes,27.4,34.56,43.2,green,0
+Operations,2023-07,19,test,outage_minutes,25.2,34.56,43.2,green,0
+Operations,2023-08,20,test,outage_minutes,27.9,34.56,43.2,green,0
+Operations,2023-09,21,test,outage_minutes,5.2,34.56,43.2,green,0
+Operations,2023-10,22,test,outage_minutes,4.3,34.56,43.2,green,0
+Operations,2023-11,23,test,outage_minutes,10.7,34.56,43.2,green,0
+Operations,2023-12,24,test,outage_minutes,14.6,34.56,43.2,green,0
+Operations,2024-01,25,test,outage_minutes,18.3,34.56,43.2,green,0
+Operations,2024-02,26,test,outage_minutes,53.4,34.56,43.2,red,0
+Operations,2024-03,27,test,outage_minutes,2.0,34.56,43.2,green,0
+Operations,2024-04,28,test,outage_minutes,11.5,34.56,43.2,green,0
+Operations,2024-05,29,test,outage_minutes,25.0,34.56,43.2,green,0
+Operations,2024-06,30,test,outage_minutes,44.6,34.56,43.2,red,0
+Operations,2024-07,31,test,outage_minutes,77.8,34.56,43.2,red,0
+Operations,2024-08,32,test,outage_minutes,6.9,34.56,43.2,green,0
+Operations,2024-09,33,test,outage_minutes,13.6,34.56,43.2,green,0
+Operations,2024-10,34,test,outage_minutes,14.6,34.56,43.2,green,0
+Operations,2024-11,35,test,outage_minutes,16.6,34.56,43.2,green,0
+Operations,2024-12,36,test,outage_minutes,12.0,34.56,43.2,green,0
+Operations,2022-01,1,baseline,overdue_action_rate,0.0,0.15,0.3,green,0
+Operations,2022-02,2,baseline,overdue_action_rate,0.0,0.15,0.3,green,0
+Operations,2022-03,3,baseline,overdue_action_rate,0.0,0.15,0.3,green,0
+Operations,2022-04,4,baseline,overdue_action_rate,0.1,0.15,0.3,green,0
+Operations,2022-05,5,baseline,overdue_action_rate,0.083333,0.15,0.3,green,0
+Operations,2022-06,6,baseline,overdue_action_rate,0.0,0.15,0.3,green,0
+Operations,2022-07,7,baseline,overdue_action_rate,0.142857,0.15,0.3,green,0
+Operations,2022-08,8,baseline,overdue_action_rate,0.0,0.15,0.3,green,0
+Operations,2022-09,9,baseline,overdue_action_rate,0.0,0.15,0.3,green,0
+Operations,2022-10,10,baseline,overdue_action_rate,0.0,0.15,0.3,green,0
+Operations,2022-11,11,baseline,overdue_action_rate,0.0,0.15,0.3,green,0
+Operations,2022-12,12,baseline,overdue_action_rate,0.0,0.15,0.3,green,0
+Operations,2023-01,13,test,overdue_action_rate,,0.15,0.3,n/m,0
+Operations,2023-02,14,test,overdue_action_rate,0.125,0.15,0.3,green,0
+Operations,2023-03,15,test,overdue_action_rate,0.142857,0.15,0.3,green,0
+Operations,2023-04,16,test,overdue_action_rate,0.111111,0.15,0.3,green,0
+Operations,2023-05,17,test,overdue_action_rate,0.0,0.15,0.3,green,0
+Operations,2023-06,18,test,overdue_action_rate,0.0,0.15,0.3,green,0
+Operations,2023-07,19,test,overdue_action_rate,0.0,0.15,0.3,green,0
+Operations,2023-08,20,test,overdue_action_rate,0.0,0.15,0.3,green,0
+Operations,2023-09,21,test,overdue_action_rate,0.0,0.15,0.3,green,0
+Operations,2023-10,22,test,overdue_action_rate,0.130435,0.15,0.3,green,0
+Operations,2023-11,23,test,overdue_action_rate,0.181818,0.15,0.3,amber,0
+Operations,2023-12,24,test,overdue_action_rate,0.26087,0.15,0.3,amber,0
+Operations,2024-01,25,test,overdue_action_rate,0.238095,0.15,0.3,amber,0
+Operations,2024-02,26,test,overdue_action_rate,0.136364,0.15,0.3,green,0
+Operations,2024-03,27,test,overdue_action_rate,0.217391,0.15,0.3,amber,0
+Operations,2024-04,28,test,overdue_action_rate,0.15625,0.15,0.3,amber,0
+Operations,2024-05,29,test,overdue_action_rate,0.114286,0.15,0.3,green,0
+Operations,2024-06,30,test,overdue_action_rate,0.25,0.15,0.3,amber,0
+Operations,2024-07,31,test,overdue_action_rate,0.314286,0.15,0.3,red,0
+Operations,2024-08,32,test,overdue_action_rate,0.243243,0.15,0.3,amber,0
+Operations,2024-09,33,test,overdue_action_rate,0.21875,0.15,0.3,amber,0
+Operations,2024-10,34,test,overdue_action_rate,0.228571,0.15,0.3,amber,0
+Operations,2024-11,35,test,overdue_action_rate,0.344828,0.15,0.3,red,0
+Operations,2024-12,36,test,overdue_action_rate,0.28,0.15,0.3,amber,0
+Operations,2022-01,1,baseline,payment_failure_rate,,0.003,0.005,n/m,0
+Operations,2022-02,2,baseline,payment_failure_rate,,0.003,0.005,n/m,0
+Operations,2022-03,3,baseline,payment_failure_rate,,0.003,0.005,n/m,0
+Operations,2022-04,4,baseline,payment_failure_rate,,0.003,0.005,n/m,0
+Operations,2022-05,5,baseline,payment_failure_rate,,0.003,0.005,n/m,0
+Operations,2022-06,6,baseline,payment_failure_rate,,0.003,0.005,n/m,0
+Operations,2022-07,7,baseline,payment_failure_rate,,0.003,0.005,n/m,0
+Operations,2022-08,8,baseline,payment_failure_rate,,0.003,0.005,n/m,0
+Operations,2022-09,9,baseline,payment_failure_rate,,0.003,0.005,n/m,0
+Operations,2022-10,10,baseline,payment_failure_rate,,0.003,0.005,n/m,0
+Operations,2022-11,11,baseline,payment_failure_rate,,0.003,0.005,n/m,0
+Operations,2022-12,12,baseline,payment_failure_rate,,0.003,0.005,n/m,0
+Operations,2023-01,13,test,payment_failure_rate,,0.003,0.005,n/m,0
+Operations,2023-02,14,test,payment_failure_rate,,0.003,0.005,n/m,0
+Operations,2023-03,15,test,payment_failure_rate,,0.003,0.005,n/m,0
+Operations,2023-04,16,test,payment_failure_rate,,0.003,0.005,n/m,0
+Operations,2023-05,17,test,payment_failure_rate,,0.003,0.005,n/m,0
+Operations,2023-06,18,test,payment_failure_rate,,0.003,0.005,n/m,0
+Operations,2023-07,19,test,payment_failure_rate,,0.003,0.005,n/m,0
+Operations,2023-08,20,test,payment_failure_rate,,0.003,0.005,n/m,0
+Operations,2023-09,21,test,payment_failure_rate,,0.003,0.005,n/m,0
+Operations,2023-10,22,test,payment_failure_rate,,0.003,0.005,n/m,0
+Operations,2023-11,23,test,payment_failure_rate,,0.003,0.005,n/m,0
+Operations,2023-12,24,test,payment_failure_rate,,0.003,0.005,n/m,0
+Operations,2024-01,25,test,payment_failure_rate,,0.003,0.005,n/m,0
+Operations,2024-02,26,test,payment_failure_rate,,0.003,0.005,n/m,0
+Operations,2024-03,27,test,payment_failure_rate,,0.003,0.005,n/m,0
+Operations,2024-04,28,test,payment_failure_rate,,0.003,0.005,n/m,0
+Operations,2024-05,29,test,payment_failure_rate,,0.003,0.005,n/m,0
+Operations,2024-06,30,test,payment_failure_rate,,0.003,0.005,n/m,0
+Operations,2024-07,31,test,payment_failure_rate,,0.003,0.005,n/m,0
+Operations,2024-08,32,test,payment_failure_rate,,0.003,0.005,n/m,0
+Operations,2024-09,33,test,payment_failure_rate,,0.003,0.005,n/m,0
+Operations,2024-10,34,test,payment_failure_rate,,0.003,0.005,n/m,0
+Operations,2024-11,35,test,payment_failure_rate,,0.003,0.005,n/m,0
+Operations,2024-12,36,test,payment_failure_rate,,0.003,0.005,n/m,0
+Operations,2022-01,1,baseline,repeat_rate,0.0,0.39125,0.4725,green,0
+Operations,2022-02,2,baseline,repeat_rate,0.066667,0.39125,0.4725,green,0
+Operations,2022-03,3,baseline,repeat_rate,0.055556,0.39125,0.4725,green,0
+Operations,2022-04,4,baseline,repeat_rate,0.1,0.39125,0.4725,green,0
+Operations,2022-05,5,baseline,repeat_rate,0.277778,0.39125,0.4725,green,0
+Operations,2022-06,6,baseline,repeat_rate,0.307692,0.39125,0.4725,green,0
+Operations,2022-07,7,baseline,repeat_rate,0.3125,0.39125,0.4725,green,0
+Operations,2022-08,8,baseline,repeat_rate,0.153846,0.39125,0.4725,green,0
+Operations,2022-09,9,baseline,repeat_rate,0.05,0.39125,0.4725,green,0
+Operations,2022-10,10,baseline,repeat_rate,0.2,0.39125,0.4725,green,0
+Operations,2022-11,11,baseline,repeat_rate,0.5,0.39125,0.4725,red,0
+Operations,2022-12,12,baseline,repeat_rate,0.4,0.39125,0.4725,amber,0
+Operations,2023-01,13,test,repeat_rate,0.25,0.39125,0.4725,green,0
+Operations,2023-02,14,test,repeat_rate,0.111111,0.39125,0.4725,green,0
+Operations,2023-03,15,test,repeat_rate,0.421053,0.39125,0.4725,amber,0
+Operations,2023-04,16,test,repeat_rate,0.083333,0.39125,0.4725,green,0
+Operations,2023-05,17,test,repeat_rate,0.272727,0.39125,0.4725,green,0
+Operations,2023-06,18,test,repeat_rate,0.208333,0.39125,0.4725,green,0
+Operations,2023-07,19,test,repeat_rate,0.25,0.39125,0.4725,green,0
+Operations,2023-08,20,test,repeat_rate,0.25,0.39125,0.4725,green,0
+Operations,2023-09,21,test,repeat_rate,0.181818,0.39125,0.4725,green,0
+Operations,2023-10,22,test,repeat_rate,0.285714,0.39125,0.4725,green,0
+Operations,2023-11,23,test,repeat_rate,0.333333,0.39125,0.4725,green,0
+Operations,2023-12,24,test,repeat_rate,0.333333,0.39125,0.4725,green,0
+Operations,2024-01,25,test,repeat_rate,0.45,0.39125,0.4725,amber,0
+Operations,2024-02,26,test,repeat_rate,0.304348,0.39125,0.4725,green,0
+Operations,2024-03,27,test,repeat_rate,0.368421,0.39125,0.4725,green,0
+Operations,2024-04,28,test,repeat_rate,0.34375,0.39125,0.4725,green,0
+Operations,2024-05,29,test,repeat_rate,0.285714,0.39125,0.4725,green,0
+Operations,2024-06,30,test,repeat_rate,0.382353,0.39125,0.4725,green,0
+Operations,2024-07,31,test,repeat_rate,0.444444,0.39125,0.4725,amber,0
+Operations,2024-08,32,test,repeat_rate,0.384615,0.39125,0.4725,green,0
+Operations,2024-09,33,test,repeat_rate,0.416667,0.39125,0.4725,amber,0
+Operations,2024-10,34,test,repeat_rate,0.485714,0.39125,0.4725,red,0
+Operations,2024-11,35,test,repeat_rate,0.428571,0.39125,0.4725,amber,0
+Operations,2024-12,36,test,repeat_rate,0.333333,0.39125,0.4725,green,0
+Payments,2022-01,1,baseline,incidents_per_1000_tx,0.288488,0.52742,0.612333,green,0
+Payments,2022-02,2,baseline,incidents_per_1000_tx,0.434657,0.52742,0.612333,green,0
+Payments,2022-03,3,baseline,incidents_per_1000_tx,0.257724,0.52742,0.612333,green,0
+Payments,2022-04,4,baseline,incidents_per_1000_tx,0.376595,0.52742,0.612333,green,0
+Payments,2022-05,5,baseline,incidents_per_1000_tx,0.321275,0.52742,0.612333,green,0
+Payments,2022-06,6,baseline,incidents_per_1000_tx,0.453167,0.52742,0.612333,green,0
+Payments,2022-07,7,baseline,incidents_per_1000_tx,0.47303,0.52742,0.612333,green,0
+Payments,2022-08,8,baseline,incidents_per_1000_tx,0.450534,0.52742,0.612333,green,0
+Payments,2022-09,9,baseline,incidents_per_1000_tx,0.210463,0.52742,0.612333,green,0
+Payments,2022-10,10,baseline,incidents_per_1000_tx,0.384846,0.52742,0.612333,green,0
+Payments,2022-11,11,baseline,incidents_per_1000_tx,0.302065,0.52742,0.612333,green,0
+Payments,2022-12,12,baseline,incidents_per_1000_tx,0.338277,0.52742,0.612333,green,0
+Payments,2023-01,13,test,incidents_per_1000_tx,0.258221,0.52742,0.612333,green,0
+Payments,2023-02,14,test,incidents_per_1000_tx,0.24294,0.52742,0.612333,green,0
+Payments,2023-03,15,test,incidents_per_1000_tx,0.407706,0.52742,0.612333,green,0
+Payments,2023-04,16,test,incidents_per_1000_tx,0.383626,0.52742,0.612333,green,0
+Payments,2023-05,17,test,incidents_per_1000_tx,0.235839,0.52742,0.612333,green,0
+Payments,2023-06,18,test,incidents_per_1000_tx,0.26124,0.52742,0.612333,green,0
+Payments,2023-07,19,test,incidents_per_1000_tx,0.324618,0.52742,0.612333,green,0
+Payments,2023-08,20,test,incidents_per_1000_tx,0.410987,0.52742,0.612333,green,0
+Payments,2023-09,21,test,incidents_per_1000_tx,0.301353,0.52742,0.612333,green,0
+Payments,2023-10,22,test,incidents_per_1000_tx,0.429507,0.52742,0.612333,green,0
+Payments,2023-11,23,test,incidents_per_1000_tx,0.431625,0.52742,0.612333,green,0
+Payments,2023-12,24,test,incidents_per_1000_tx,0.405689,0.52742,0.612333,green,0
+Payments,2024-01,25,test,incidents_per_1000_tx,0.311265,0.52742,0.612333,green,0
+Payments,2024-02,26,test,incidents_per_1000_tx,0.252023,0.52742,0.612333,green,0
+Payments,2024-03,27,test,incidents_per_1000_tx,0.32732,0.52742,0.612333,green,0
+Payments,2024-04,28,test,incidents_per_1000_tx,0.233393,0.52742,0.612333,green,0
+Payments,2024-05,29,test,incidents_per_1000_tx,0.391607,0.52742,0.612333,green,0
+Payments,2024-06,30,test,incidents_per_1000_tx,0.39275,0.52742,0.612333,green,0
+Payments,2024-07,31,test,incidents_per_1000_tx,0.309383,0.52742,0.612333,green,0
+Payments,2024-08,32,test,incidents_per_1000_tx,0.308345,0.52742,0.612333,green,0
+Payments,2024-09,33,test,incidents_per_1000_tx,0.37043,0.52742,0.612333,green,0
+Payments,2024-10,34,test,incidents_per_1000_tx,0.358702,0.52742,0.612333,green,0
+Payments,2024-11,35,test,incidents_per_1000_tx,0.39634,0.52742,0.612333,green,0
+Payments,2024-12,36,test,incidents_per_1000_tx,0.337706,0.52742,0.612333,green,0
+Payments,2022-01,1,baseline,loss_amount,115775.56,1252036.926074,1683706.232028,green,0
+Payments,2022-02,2,baseline,loss_amount,329832.18,1252036.926074,1683706.232028,green,0
+Payments,2022-03,3,baseline,loss_amount,455583.44,1252036.926074,1683706.232028,green,0
+Payments,2022-04,4,baseline,loss_amount,404987.57,1252036.926074,1683706.232028,green,0
+Payments,2022-05,5,baseline,loss_amount,179479.49,1252036.926074,1683706.232028,green,0
+Payments,2022-06,6,baseline,loss_amount,134072.92,1252036.926074,1683706.232028,green,0
+Payments,2022-07,7,baseline,loss_amount,193414.23,1252036.926074,1683706.232028,green,0
+Payments,2022-08,8,baseline,loss_amount,175075.46,1252036.926074,1683706.232028,green,0
+Payments,2022-09,9,baseline,loss_amount,123108.9,1252036.926074,1683706.232028,green,0
+Payments,2022-10,10,baseline,loss_amount,484106.94,1252036.926074,1683706.232028,green,0
+Payments,2022-11,11,baseline,loss_amount,1690584.11,1252036.926074,1683706.232028,red,0
+Payments,2022-12,12,baseline,loss_amount,378358.97,1252036.926074,1683706.232028,green,0
+Payments,2023-01,13,test,loss_amount,605850.05,1252036.926074,1683706.232028,green,0
+Payments,2023-02,14,test,loss_amount,611564.66,1252036.926074,1683706.232028,green,0
+Payments,2023-03,15,test,loss_amount,120167.15,1252036.926074,1683706.232028,green,0
+Payments,2023-04,16,test,loss_amount,170559.43,1252036.926074,1683706.232028,green,0
+Payments,2023-05,17,test,loss_amount,571185.24,1252036.926074,1683706.232028,green,0
+Payments,2023-06,18,test,loss_amount,1232537.77,1252036.926074,1683706.232028,green,1
+Payments,2023-07,19,test,loss_amount,147304.54,1252036.926074,1683706.232028,green,0
+Payments,2023-08,20,test,loss_amount,104917.0,1252036.926074,1683706.232028,green,0
+Payments,2023-09,21,test,loss_amount,542348.27,1252036.926074,1683706.232028,green,0
+Payments,2023-10,22,test,loss_amount,148881.6,1252036.926074,1683706.232028,green,0
+Payments,2023-11,23,test,loss_amount,497645.8,1252036.926074,1683706.232028,green,0
+Payments,2023-12,24,test,loss_amount,526759.78,1252036.926074,1683706.232028,green,0
+Payments,2024-01,25,test,loss_amount,229490.37,1252036.926074,1683706.232028,green,0
+Payments,2024-02,26,test,loss_amount,521054.91,1252036.926074,1683706.232028,green,0
+Payments,2024-03,27,test,loss_amount,320163.87,1252036.926074,1683706.232028,green,0
+Payments,2024-04,28,test,loss_amount,922201.3,1252036.926074,1683706.232028,green,0
+Payments,2024-05,29,test,loss_amount,346323.49,1252036.926074,1683706.232028,green,0
+Payments,2024-06,30,test,loss_amount,432675.61,1252036.926074,1683706.232028,green,0
+Payments,2024-07,31,test,loss_amount,457068.45,1252036.926074,1683706.232028,green,0
+Payments,2024-08,32,test,loss_amount,243965.62,1252036.926074,1683706.232028,green,0
+Payments,2024-09,33,test,loss_amount,320522.67,1252036.926074,1683706.232028,green,0
+Payments,2024-10,34,test,loss_amount,137200.75,1252036.926074,1683706.232028,green,0
+Payments,2024-11,35,test,loss_amount,173294.54,1252036.926074,1683706.232028,green,0
+Payments,2024-12,36,test,loss_amount,286021.87,1252036.926074,1683706.232028,green,0
+Payments,2022-01,1,baseline,open_actions,3.0,25.0,25.725,green,0
+Payments,2022-02,2,baseline,open_actions,14.0,25.0,25.725,green,0
+Payments,2022-03,3,baseline,open_actions,17.0,25.0,25.725,green,0
+Payments,2022-04,4,baseline,open_actions,21.0,25.0,25.725,green,1
+Payments,2022-05,5,baseline,open_actions,18.0,25.0,25.725,green,0
+Payments,2022-06,6,baseline,open_actions,20.0,25.0,25.725,green,0
+Payments,2022-07,7,baseline,open_actions,25.0,25.0,25.725,amber,0
+Payments,2022-08,8,baseline,open_actions,26.0,25.0,25.725,red,0
+Payments,2022-09,9,baseline,open_actions,15.0,25.0,25.725,green,0
+Payments,2022-10,10,baseline,open_actions,15.0,25.0,25.725,green,0
+Payments,2022-11,11,baseline,open_actions,25.0,25.0,25.725,amber,0
+Payments,2022-12,12,baseline,open_actions,19.0,25.0,25.725,green,0
+Payments,2023-01,13,test,open_actions,25.0,25.0,25.725,amber,0
+Payments,2023-02,14,test,open_actions,28.0,25.0,25.725,red,0
+Payments,2023-03,15,test,open_actions,19.0,25.0,25.725,green,0
+Payments,2023-04,16,test,open_actions,26.0,25.0,25.725,red,0
+Payments,2023-05,17,test,open_actions,22.0,25.0,25.725,green,0
+Payments,2023-06,18,test,open_actions,24.0,25.0,25.725,green,0
+Payments,2023-07,19,test,open_actions,18.0,25.0,25.725,green,0
+Payments,2023-08,20,test,open_actions,22.0,25.0,25.725,green,0
+Payments,2023-09,21,test,open_actions,25.0,25.0,25.725,amber,0
+Payments,2023-10,22,test,open_actions,25.0,25.0,25.725,amber,0
+Payments,2023-11,23,test,open_actions,23.0,25.0,25.725,green,0
+Payments,2023-12,24,test,open_actions,30.0,25.0,25.725,red,0
+Payments,2024-01,25,test,open_actions,25.0,25.0,25.725,amber,0
+Payments,2024-02,26,test,open_actions,30.0,25.0,25.725,red,0
+Payments,2024-03,27,test,open_actions,23.0,25.0,25.725,green,0
+Payments,2024-04,28,test,open_actions,27.0,25.0,25.725,red,0
+Payments,2024-05,29,test,open_actions,26.0,25.0,25.725,red,0
+Payments,2024-06,30,test,open_actions,29.0,25.0,25.725,red,0
+Payments,2024-07,31,test,open_actions,26.0,25.0,25.725,red,0
+Payments,2024-08,32,test,open_actions,21.0,25.0,25.725,green,0
+Payments,2024-09,33,test,open_actions,30.0,25.0,25.725,red,0
+Payments,2024-10,34,test,open_actions,29.0,25.0,25.725,red,0
+Payments,2024-11,35,test,open_actions,31.0,25.0,25.725,red,0
+Payments,2024-12,36,test,open_actions,37.0,25.0,25.725,red,0
+Payments,2022-01,1,baseline,outage_minutes,13.5,34.56,43.2,green,0
+Payments,2022-02,2,baseline,outage_minutes,15.1,34.56,43.2,green,0
+Payments,2022-03,3,baseline,outage_minutes,13.6,34.56,43.2,green,0
+Payments,2022-04,4,baseline,outage_minutes,39.5,34.56,43.2,amber,0
+Payments,2022-05,5,baseline,outage_minutes,0.0,34.56,43.2,green,0
+Payments,2022-06,6,baseline,outage_minutes,18.6,34.56,43.2,green,0
+Payments,2022-07,7,baseline,outage_minutes,26.3,34.56,43.2,green,0
+Payments,2022-08,8,baseline,outage_minutes,40.9,34.56,43.2,amber,0
+Payments,2022-09,9,baseline,outage_minutes,39.4,34.56,43.2,amber,0
+Payments,2022-10,10,baseline,outage_minutes,4.7,34.56,43.2,green,0
+Payments,2022-11,11,baseline,outage_minutes,29.9,34.56,43.2,green,0
+Payments,2022-12,12,baseline,outage_minutes,7.6,34.56,43.2,green,0
+Payments,2023-01,13,test,outage_minutes,2.5,34.56,43.2,green,0
+Payments,2023-02,14,test,outage_minutes,40.2,34.56,43.2,amber,0
+Payments,2023-03,15,test,outage_minutes,0.0,34.56,43.2,green,0
+Payments,2023-04,16,test,outage_minutes,10.9,34.56,43.2,green,0
+Payments,2023-05,17,test,outage_minutes,48.1,34.56,43.2,red,0
+Payments,2023-06,18,test,outage_minutes,22.8,34.56,43.2,green,0
+Payments,2023-07,19,test,outage_minutes,7.3,34.56,43.2,green,0
+Payments,2023-08,20,test,outage_minutes,3.5,34.56,43.2,green,0
+Payments,2023-09,21,test,outage_minutes,22.9,34.56,43.2,green,0
+Payments,2023-10,22,test,outage_minutes,10.1,34.56,43.2,green,0
+Payments,2023-11,23,test,outage_minutes,59.5,34.56,43.2,red,0
+Payments,2023-12,24,test,outage_minutes,65.8,34.56,43.2,red,0
+Payments,2024-01,25,test,outage_minutes,53.3,34.56,43.2,red,0
+Payments,2024-02,26,test,outage_minutes,76.5,34.56,43.2,red,0
+Payments,2024-03,27,test,outage_minutes,63.7,34.56,43.2,red,0
+Payments,2024-04,28,test,outage_minutes,56.6,34.56,43.2,red,0
+Payments,2024-05,29,test,outage_minutes,124.8,34.56,43.2,red,0
+Payments,2024-06,30,test,outage_minutes,42.5,34.56,43.2,amber,0
+Payments,2024-07,31,test,outage_minutes,21.8,34.56,43.2,green,0
+Payments,2024-08,32,test,outage_minutes,9.1,34.56,43.2,green,0
+Payments,2024-09,33,test,outage_minutes,24.4,34.56,43.2,green,0
+Payments,2024-10,34,test,outage_minutes,6.1,34.56,43.2,green,0
+Payments,2024-11,35,test,outage_minutes,19.0,34.56,43.2,green,0
+Payments,2024-12,36,test,outage_minutes,8.3,34.56,43.2,green,0
+Payments,2022-01,1,baseline,overdue_action_rate,,0.15,0.3,n/m,0
+Payments,2022-02,2,baseline,overdue_action_rate,0.0,0.15,0.3,green,0
+Payments,2022-03,3,baseline,overdue_action_rate,0.0,0.15,0.3,green,0
+Payments,2022-04,4,baseline,overdue_action_rate,0.0,0.15,0.3,green,0
+Payments,2022-05,5,baseline,overdue_action_rate,0.0,0.15,0.3,green,0
+Payments,2022-06,6,baseline,overdue_action_rate,0.05,0.15,0.3,green,0
+Payments,2022-07,7,baseline,overdue_action_rate,0.0,0.15,0.3,green,0
+Payments,2022-08,8,baseline,overdue_action_rate,0.153846,0.15,0.3,amber,0
+Payments,2022-09,9,baseline,overdue_action_rate,0.0,0.15,0.3,green,0
+Payments,2022-10,10,baseline,overdue_action_rate,0.0,0.15,0.3,green,0
+Payments,2022-11,11,baseline,overdue_action_rate,0.0,0.15,0.3,green,0
+Payments,2022-12,12,baseline,overdue_action_rate,0.052632,0.15,0.3,green,0
+Payments,2023-01,13,test,overdue_action_rate,0.08,0.15,0.3,green,0
+Payments,2023-02,14,test,overdue_action_rate,0.107143,0.15,0.3,green,0
+Payments,2023-03,15,test,overdue_action_rate,0.157895,0.15,0.3,amber,0
+Payments,2023-04,16,test,overdue_action_rate,0.076923,0.15,0.3,green,0
+Payments,2023-05,17,test,overdue_action_rate,0.136364,0.15,0.3,green,0
+Payments,2023-06,18,test,overdue_action_rate,0.125,0.15,0.3,green,0
+Payments,2023-07,19,test,overdue_action_rate,0.277778,0.15,0.3,amber,0
+Payments,2023-08,20,test,overdue_action_rate,0.227273,0.15,0.3,amber,0
+Payments,2023-09,21,test,overdue_action_rate,0.16,0.15,0.3,amber,0
+Payments,2023-10,22,test,overdue_action_rate,0.16,0.15,0.3,amber,0
+Payments,2023-11,23,test,overdue_action_rate,0.130435,0.15,0.3,green,0
+Payments,2023-12,24,test,overdue_action_rate,0.133333,0.15,0.3,green,0
+Payments,2024-01,25,test,overdue_action_rate,0.16,0.15,0.3,amber,0
+Payments,2024-02,26,test,overdue_action_rate,0.1,0.15,0.3,green,0
+Payments,2024-03,27,test,overdue_action_rate,0.130435,0.15,0.3,green,0
+Payments,2024-04,28,test,overdue_action_rate,0.148148,0.15,0.3,green,0
+Payments,2024-05,29,test,overdue_action_rate,0.115385,0.15,0.3,green,0
+Payments,2024-06,30,test,overdue_action_rate,0.103448,0.15,0.3,green,0
+Payments,2024-07,31,test,overdue_action_rate,0.153846,0.15,0.3,amber,0
+Payments,2024-08,32,test,overdue_action_rate,0.142857,0.15,0.3,green,0
+Payments,2024-09,33,test,overdue_action_rate,0.133333,0.15,0.3,green,0
+Payments,2024-10,34,test,overdue_action_rate,0.137931,0.15,0.3,green,0
+Payments,2024-11,35,test,overdue_action_rate,0.16129,0.15,0.3,amber,0
+Payments,2024-12,36,test,overdue_action_rate,0.189189,0.15,0.3,amber,0
+Payments,2022-01,1,baseline,payment_failure_rate,0.001324,0.003,0.005,green,0
+Payments,2022-02,2,baseline,payment_failure_rate,0.002866,0.003,0.005,green,0
+Payments,2022-03,3,baseline,payment_failure_rate,0.002529,0.003,0.005,green,0
+Payments,2022-04,4,baseline,payment_failure_rate,0.001648,0.003,0.005,green,0
+Payments,2022-05,5,baseline,payment_failure_rate,0.001831,0.003,0.005,green,0
+Payments,2022-06,6,baseline,payment_failure_rate,0.003688,0.003,0.005,amber,0
+Payments,2022-07,7,baseline,payment_failure_rate,0.002976,0.003,0.005,green,0
+Payments,2022-08,8,baseline,payment_failure_rate,0.004676,0.003,0.005,amber,0
+Payments,2022-09,9,baseline,payment_failure_rate,0.000857,0.003,0.005,green,0
+Payments,2022-10,10,baseline,payment_failure_rate,0.003741,0.003,0.005,amber,0
+Payments,2022-11,11,baseline,payment_failure_rate,0.001277,0.003,0.005,green,0
+Payments,2022-12,12,baseline,payment_failure_rate,0.002563,0.003,0.005,green,0
+Payments,2023-01,13,test,payment_failure_rate,0.002673,0.003,0.005,green,0
+Payments,2023-02,14,test,payment_failure_rate,0.002329,0.003,0.005,green,0
+Payments,2023-03,15,test,payment_failure_rate,0.00297,0.003,0.005,green,0
+Payments,2023-04,16,test,payment_failure_rate,0.003097,0.003,0.005,amber,0
+Payments,2023-05,17,test,payment_failure_rate,0.002317,0.003,0.005,green,0
+Payments,2023-06,18,test,payment_failure_rate,0.003025,0.003,0.005,amber,0
+Payments,2023-07,19,test,payment_failure_rate,0.002421,0.003,0.005,green,0
+Payments,2023-08,20,test,payment_failure_rate,0.003096,0.003,0.005,amber,0
+Payments,2023-09,21,test,payment_failure_rate,0.003397,0.003,0.005,amber,0
+Payments,2023-10,22,test,payment_failure_rate,0.002725,0.003,0.005,green,0
+Payments,2023-11,23,test,payment_failure_rate,0.004481,0.003,0.005,amber,0
+Payments,2023-12,24,test,payment_failure_rate,0.002565,0.003,0.005,green,0
+Payments,2024-01,25,test,payment_failure_rate,0.001475,0.003,0.005,green,0
+Payments,2024-02,26,test,payment_failure_rate,0.001791,0.003,0.005,green,0
+Payments,2024-03,27,test,payment_failure_rate,0.003663,0.003,0.005,amber,0
+Payments,2024-04,28,test,payment_failure_rate,0.001426,0.003,0.005,green,0
+Payments,2024-05,29,test,payment_failure_rate,0.002425,0.003,0.005,green,0
+Payments,2024-06,30,test,payment_failure_rate,0.003225,0.003,0.005,amber,0
+Payments,2024-07,31,test,payment_failure_rate,0.002549,0.003,0.005,green,0
+Payments,2024-08,32,test,payment_failure_rate,0.001328,0.003,0.005,green,0
+Payments,2024-09,33,test,payment_failure_rate,0.00205,0.003,0.005,green,0
+Payments,2024-10,34,test,payment_failure_rate,0.001686,0.003,0.005,green,0
+Payments,2024-11,35,test,payment_failure_rate,0.004129,0.003,0.005,amber,0
+Payments,2024-12,36,test,payment_failure_rate,0.003449,0.003,0.005,amber,0
+Payments,2022-01,1,baseline,repeat_rate,0.05,0.425188,0.520635,green,0
+Payments,2022-02,2,baseline,repeat_rate,0.125,0.425188,0.520635,green,0
+Payments,2022-03,3,baseline,repeat_rate,0.125,0.425188,0.520635,green,0
+Payments,2022-04,4,baseline,repeat_rate,0.34375,0.425188,0.520635,green,0
+Payments,2022-05,5,baseline,repeat_rate,0.380952,0.425188,0.520635,green,0
+Payments,2022-06,6,baseline,repeat_rate,0.30303,0.425188,0.520635,green,0
+Payments,2022-07,7,baseline,repeat_rate,0.394737,0.425188,0.520635,green,0
+Payments,2022-08,8,baseline,repeat_rate,0.371429,0.425188,0.520635,green,0
+Payments,2022-09,9,baseline,repeat_rate,0.555556,0.425188,0.520635,red,0
+Payments,2022-10,10,baseline,repeat_rate,0.428571,0.425188,0.520635,amber,0
+Payments,2022-11,11,baseline,repeat_rate,0.193548,0.425188,0.520635,green,0
+Payments,2022-12,12,baseline,repeat_rate,0.387097,0.425188,0.520635,green,0
+Payments,2023-01,13,test,repeat_rate,0.391304,0.425188,0.520635,green,0
+Payments,2023-02,14,test,repeat_rate,0.296296,0.425188,0.520635,green,0
+Payments,2023-03,15,test,repeat_rate,0.448276,0.425188,0.520635,amber,0
+Payments,2023-04,16,test,repeat_rate,0.333333,0.425188,0.520635,green,0
+Payments,2023-05,17,test,repeat_rate,0.24,0.425188,0.520635,green,0
+Payments,2023-06,18,test,repeat_rate,0.481481,0.425188,0.520635,amber,0
+Payments,2023-07,19,test,repeat_rate,0.461538,0.425188,0.520635,amber,0
+Payments,2023-08,20,test,repeat_rate,0.40625,0.425188,0.520635,green,0
+Payments,2023-09,21,test,repeat_rate,0.444444,0.425188,0.520635,amber,0
+Payments,2023-10,22,test,repeat_rate,0.416667,0.425188,0.520635,green,0
+Payments,2023-11,23,test,repeat_rate,0.454545,0.425188,0.520635,amber,0
+Payments,2023-12,24,test,repeat_rate,0.510204,0.425188,0.520635,amber,0
+Payments,2024-01,25,test,repeat_rate,0.322581,0.425188,0.520635,green,0
+Payments,2024-02,26,test,repeat_rate,0.464286,0.425188,0.520635,amber,0
+Payments,2024-03,27,test,repeat_rate,0.4,0.425188,0.520635,green,0
+Payments,2024-04,28,test,repeat_rate,0.333333,0.425188,0.520635,green,0
+Payments,2024-05,29,test,repeat_rate,0.318182,0.425188,0.520635,green,0
+Payments,2024-06,30,test,repeat_rate,0.55814,0.425188,0.520635,red,0
+Payments,2024-07,31,test,repeat_rate,0.387097,0.425188,0.520635,green,0
+Payments,2024-08,32,test,repeat_rate,0.433333,0.425188,0.520635,amber,0
+Payments,2024-09,33,test,repeat_rate,0.361111,0.425188,0.520635,green,0
+Payments,2024-10,34,test,repeat_rate,0.285714,0.425188,0.520635,green,0
+Payments,2024-11,35,test,repeat_rate,0.439024,0.425188,0.520635,amber,0
+Payments,2024-12,36,test,repeat_rate,0.473684,0.425188,0.520635,amber,0
+Retail Banking,2022-01,1,baseline,incidents_per_1000_tx,0.416983,0.618751,0.725919,green,0
+Retail Banking,2022-02,2,baseline,incidents_per_1000_tx,0.379459,0.618751,0.725919,green,0
+Retail Banking,2022-03,3,baseline,incidents_per_1000_tx,0.332234,0.618751,0.725919,green,0
+Retail Banking,2022-04,4,baseline,incidents_per_1000_tx,0.327118,0.618751,0.725919,green,0
+Retail Banking,2022-05,5,baseline,incidents_per_1000_tx,0.68218,0.618751,0.725919,amber,0
+Retail Banking,2022-06,6,baseline,incidents_per_1000_tx,0.367629,0.618751,0.725919,green,0
+Retail Banking,2022-07,7,baseline,incidents_per_1000_tx,0.325211,0.618751,0.725919,green,0
+Retail Banking,2022-08,8,baseline,incidents_per_1000_tx,0.489476,0.618751,0.725919,green,0
+Retail Banking,2022-09,9,baseline,incidents_per_1000_tx,0.503145,0.618751,0.725919,green,0
+Retail Banking,2022-10,10,baseline,incidents_per_1000_tx,0.371626,0.618751,0.725919,green,0
+Retail Banking,2022-11,11,baseline,incidents_per_1000_tx,0.337409,0.618751,0.725919,green,0
+Retail Banking,2022-12,12,baseline,incidents_per_1000_tx,0.320495,0.618751,0.725919,green,0
+Retail Banking,2023-01,13,test,incidents_per_1000_tx,0.504242,0.618751,0.725919,green,0
+Retail Banking,2023-02,14,test,incidents_per_1000_tx,0.273494,0.618751,0.725919,green,0
+Retail Banking,2023-03,15,test,incidents_per_1000_tx,0.488426,0.618751,0.725919,green,0
+Retail Banking,2023-04,16,test,incidents_per_1000_tx,0.284501,0.618751,0.725919,green,0
+Retail Banking,2023-05,17,test,incidents_per_1000_tx,0.396693,0.618751,0.725919,green,0
+Retail Banking,2023-06,18,test,incidents_per_1000_tx,0.537993,0.618751,0.725919,green,0
+Retail Banking,2023-07,19,test,incidents_per_1000_tx,0.342763,0.618751,0.725919,green,0
+Retail Banking,2023-08,20,test,incidents_per_1000_tx,0.697665,0.618751,0.725919,amber,0
+Retail Banking,2023-09,21,test,incidents_per_1000_tx,1.040349,0.618751,0.725919,red,0
+Retail Banking,2023-10,22,test,incidents_per_1000_tx,0.738144,0.618751,0.725919,red,0
+Retail Banking,2023-11,23,test,incidents_per_1000_tx,0.871946,0.618751,0.725919,red,0
+Retail Banking,2023-12,24,test,incidents_per_1000_tx,0.774034,0.618751,0.725919,red,0
+Retail Banking,2024-01,25,test,incidents_per_1000_tx,0.849165,0.618751,0.725919,red,0
+Retail Banking,2024-02,26,test,incidents_per_1000_tx,0.390153,0.618751,0.725919,green,0
+Retail Banking,2024-03,27,test,incidents_per_1000_tx,0.451433,0.618751,0.725919,green,0
+Retail Banking,2024-04,28,test,incidents_per_1000_tx,0.486609,0.618751,0.725919,green,0
+Retail Banking,2024-05,29,test,incidents_per_1000_tx,0.555134,0.618751,0.725919,green,1
+Retail Banking,2024-06,30,test,incidents_per_1000_tx,0.43948,0.618751,0.725919,green,0
+Retail Banking,2024-07,31,test,incidents_per_1000_tx,0.327863,0.618751,0.725919,green,0
+Retail Banking,2024-08,32,test,incidents_per_1000_tx,0.515398,0.618751,0.725919,green,0
+Retail Banking,2024-09,33,test,incidents_per_1000_tx,0.511949,0.618751,0.725919,green,0
+Retail Banking,2024-10,34,test,incidents_per_1000_tx,0.328869,0.618751,0.725919,green,0
+Retail Banking,2024-11,35,test,incidents_per_1000_tx,0.37806,0.618751,0.725919,green,0
+Retail Banking,2024-12,36,test,incidents_per_1000_tx,0.235142,0.618751,0.725919,green,0
+Retail Banking,2022-01,1,baseline,loss_amount,41288.11,1086021.21243,1484035.436146,green,0
+Retail Banking,2022-02,2,baseline,loss_amount,149271.08,1086021.21243,1484035.436146,green,0
+Retail Banking,2022-03,3,baseline,loss_amount,118865.52,1086021.21243,1484035.436146,green,0
+Retail Banking,2022-04,4,baseline,loss_amount,54594.37,1086021.21243,1484035.436146,green,0
+Retail Banking,2022-05,5,baseline,loss_amount,198035.73,1086021.21243,1484035.436146,green,0
+Retail Banking,2022-06,6,baseline,loss_amount,158906.2,1086021.21243,1484035.436146,green,0
+Retail Banking,2022-07,7,baseline,loss_amount,149385.3,1086021.21243,1484035.436146,green,0
+Retail Banking,2022-08,8,baseline,loss_amount,208861.38,1086021.21243,1484035.436146,green,0
+Retail Banking,2022-09,9,baseline,loss_amount,208024.69,1086021.21243,1484035.436146,green,0
+Retail Banking,2022-10,10,baseline,loss_amount,90638.28,1086021.21243,1484035.436146,green,0
+Retail Banking,2022-11,11,baseline,loss_amount,651375.95,1086021.21243,1484035.436146,green,0
+Retail Banking,2022-12,12,baseline,loss_amount,1450666.57,1086021.21243,1484035.436146,amber,0
+Retail Banking,2023-01,13,test,loss_amount,80446.1,1086021.21243,1484035.436146,green,0
+Retail Banking,2023-02,14,test,loss_amount,110743.32,1086021.21243,1484035.436146,green,0
+Retail Banking,2023-03,15,test,loss_amount,470697.52,1086021.21243,1484035.436146,green,0
+Retail Banking,2023-04,16,test,loss_amount,247634.99,1086021.21243,1484035.436146,green,0
+Retail Banking,2023-05,17,test,loss_amount,266328.27,1086021.21243,1484035.436146,green,0
+Retail Banking,2023-06,18,test,loss_amount,226092.56,1086021.21243,1484035.436146,green,0
+Retail Banking,2023-07,19,test,loss_amount,142912.29,1086021.21243,1484035.436146,green,0
+Retail Banking,2023-08,20,test,loss_amount,907545.59,1086021.21243,1484035.436146,green,0
+Retail Banking,2023-09,21,test,loss_amount,1024878.5,1086021.21243,1484035.436146,green,0
+Retail Banking,2023-10,22,test,loss_amount,198135.81,1086021.21243,1484035.436146,green,0
+Retail Banking,2023-11,23,test,loss_amount,916015.02,1086021.21243,1484035.436146,green,0
+Retail Banking,2023-12,24,test,loss_amount,294399.86,1086021.21243,1484035.436146,green,0
+Retail Banking,2024-01,25,test,loss_amount,299775.45,1086021.21243,1484035.436146,green,0
+Retail Banking,2024-02,26,test,loss_amount,207156.29,1086021.21243,1484035.436146,green,0
+Retail Banking,2024-03,27,test,loss_amount,691265.77,1086021.21243,1484035.436146,green,0
+Retail Banking,2024-04,28,test,loss_amount,169780.78,1086021.21243,1484035.436146,green,0
+Retail Banking,2024-05,29,test,loss_amount,675289.56,1086021.21243,1484035.436146,green,0
+Retail Banking,2024-06,30,test,loss_amount,210244.25,1086021.21243,1484035.436146,green,0
+Retail Banking,2024-07,31,test,loss_amount,119313.98,1086021.21243,1484035.436146,green,0
+Retail Banking,2024-08,32,test,loss_amount,131863.18,1086021.21243,1484035.436146,green,0
+Retail Banking,2024-09,33,test,loss_amount,397918.37,1086021.21243,1484035.436146,green,0
+Retail Banking,2024-10,34,test,loss_amount,372606.87,1086021.21243,1484035.436146,green,0
+Retail Banking,2024-11,35,test,loss_amount,231224.9,1086021.21243,1484035.436146,green,0
+Retail Banking,2024-12,36,test,loss_amount,43298.25,1086021.21243,1484035.436146,green,0
+Retail Banking,2022-01,1,baseline,open_actions,3.0,14.9,15.725,green,0
+Retail Banking,2022-02,2,baseline,open_actions,6.0,14.9,15.725,green,0
+Retail Banking,2022-03,3,baseline,open_actions,11.0,14.9,15.725,green,0
+Retail Banking,2022-04,4,baseline,open_actions,13.0,14.9,15.725,green,1
+Retail Banking,2022-05,5,baseline,open_actions,16.0,14.9,15.725,red,0
+Retail Banking,2022-06,6,baseline,open_actions,12.0,14.9,15.725,green,0
+Retail Banking,2022-07,7,baseline,open_actions,10.0,14.9,15.725,green,0
+Retail Banking,2022-08,8,baseline,open_actions,13.0,14.9,15.725,green,0
+Retail Banking,2022-09,9,baseline,open_actions,15.0,14.9,15.725,amber,0
+Retail Banking,2022-10,10,baseline,open_actions,11.0,14.9,15.725,green,0
+Retail Banking,2022-11,11,baseline,open_actions,14.0,14.9,15.725,green,0
+Retail Banking,2022-12,12,baseline,open_actions,11.0,14.9,15.725,green,0
+Retail Banking,2023-01,13,test,open_actions,13.0,14.9,15.725,green,0
+Retail Banking,2023-02,14,test,open_actions,16.0,14.9,15.725,red,0
+Retail Banking,2023-03,15,test,open_actions,15.0,14.9,15.725,amber,0
+Retail Banking,2023-04,16,test,open_actions,15.0,14.9,15.725,amber,0
+Retail Banking,2023-05,17,test,open_actions,13.0,14.9,15.725,green,0
+Retail Banking,2023-06,18,test,open_actions,12.0,14.9,15.725,green,0
+Retail Banking,2023-07,19,test,open_actions,15.0,14.9,15.725,amber,0
+Retail Banking,2023-08,20,test,open_actions,21.0,14.9,15.725,red,0
+Retail Banking,2023-09,21,test,open_actions,23.0,14.9,15.725,red,0
+Retail Banking,2023-10,22,test,open_actions,25.0,14.9,15.725,red,0
+Retail Banking,2023-11,23,test,open_actions,35.0,14.9,15.725,red,0
+Retail Banking,2023-12,24,test,open_actions,41.0,14.9,15.725,red,0
+Retail Banking,2024-01,25,test,open_actions,34.0,14.9,15.725,red,0
+Retail Banking,2024-02,26,test,open_actions,20.0,14.9,15.725,red,0
+Retail Banking,2024-03,27,test,open_actions,19.0,14.9,15.725,red,0
+Retail Banking,2024-04,28,test,open_actions,20.0,14.9,15.725,red,0
+Retail Banking,2024-05,29,test,open_actions,22.0,14.9,15.725,red,0
+Retail Banking,2024-06,30,test,open_actions,19.0,14.9,15.725,red,0
+Retail Banking,2024-07,31,test,open_actions,13.0,14.9,15.725,green,0
+Retail Banking,2024-08,32,test,open_actions,19.0,14.9,15.725,red,0
+Retail Banking,2024-09,33,test,open_actions,19.0,14.9,15.725,red,0
+Retail Banking,2024-10,34,test,open_actions,21.0,14.9,15.725,red,0
+Retail Banking,2024-11,35,test,open_actions,22.0,14.9,15.725,red,0
+Retail Banking,2024-12,36,test,open_actions,16.0,14.9,15.725,red,0
+Retail Banking,2022-01,1,baseline,outage_minutes,0.0,34.56,43.2,green,0
+Retail Banking,2022-02,2,baseline,outage_minutes,0.8,34.56,43.2,green,0
+Retail Banking,2022-03,3,baseline,outage_minutes,33.0,34.56,43.2,green,0
+Retail Banking,2022-04,4,baseline,outage_minutes,0.0,34.56,43.2,green,0
+Retail Banking,2022-05,5,baseline,outage_minutes,15.5,34.56,43.2,green,0
+Retail Banking,2022-06,6,baseline,outage_minutes,0.0,34.56,43.2,green,0
+Retail Banking,2022-07,7,baseline,outage_minutes,20.1,34.56,43.2,green,0
+Retail Banking,2022-08,8,baseline,outage_minutes,15.3,34.56,43.2,green,0
+Retail Banking,2022-09,9,baseline,outage_minutes,0.0,34.56,43.2,green,0
+Retail Banking,2022-10,10,baseline,outage_minutes,8.6,34.56,43.2,green,0
+Retail Banking,2022-11,11,baseline,outage_minutes,2.6,34.56,43.2,green,0
+Retail Banking,2022-12,12,baseline,outage_minutes,9.8,34.56,43.2,green,0
+Retail Banking,2023-01,13,test,outage_minutes,3.6,34.56,43.2,green,0
+Retail Banking,2023-02,14,test,outage_minutes,74.3,34.56,43.2,red,0
+Retail Banking,2023-03,15,test,outage_minutes,10.7,34.56,43.2,green,0
+Retail Banking,2023-04,16,test,outage_minutes,39.1,34.56,43.2,amber,0
+Retail Banking,2023-05,17,test,outage_minutes,10.2,34.56,43.2,green,0
+Retail Banking,2023-06,18,test,outage_minutes,2.0,34.56,43.2,green,0
+Retail Banking,2023-07,19,test,outage_minutes,39.1,34.56,43.2,amber,0
+Retail Banking,2023-08,20,test,outage_minutes,13.0,34.56,43.2,green,0
+Retail Banking,2023-09,21,test,outage_minutes,0.0,34.56,43.2,green,0
+Retail Banking,2023-10,22,test,outage_minutes,22.8,34.56,43.2,green,0
+Retail Banking,2023-11,23,test,outage_minutes,13.3,34.56,43.2,green,0
+Retail Banking,2023-12,24,test,outage_minutes,6.4,34.56,43.2,green,0
+Retail Banking,2024-01,25,test,outage_minutes,51.7,34.56,43.2,red,0
+Retail Banking,2024-02,26,test,outage_minutes,32.1,34.56,43.2,green,0
+Retail Banking,2024-03,27,test,outage_minutes,36.2,34.56,43.2,amber,0
+Retail Banking,2024-04,28,test,outage_minutes,0.0,34.56,43.2,green,0
+Retail Banking,2024-05,29,test,outage_minutes,52.5,34.56,43.2,red,0
+Retail Banking,2024-06,30,test,outage_minutes,13.2,34.56,43.2,green,0
+Retail Banking,2024-07,31,test,outage_minutes,0.0,34.56,43.2,green,0
+Retail Banking,2024-08,32,test,outage_minutes,26.5,34.56,43.2,green,0
+Retail Banking,2024-09,33,test,outage_minutes,7.3,34.56,43.2,green,0
+Retail Banking,2024-10,34,test,outage_minutes,22.8,34.56,43.2,green,0
+Retail Banking,2024-11,35,test,outage_minutes,44.2,34.56,43.2,red,0
+Retail Banking,2024-12,36,test,outage_minutes,38.4,34.56,43.2,amber,0
+Retail Banking,2022-01,1,baseline,overdue_action_rate,,0.15,0.3,n/m,0
+Retail Banking,2022-02,2,baseline,overdue_action_rate,0.0,0.15,0.3,green,0
+Retail Banking,2022-03,3,baseline,overdue_action_rate,0.0,0.15,0.3,green,0
+Retail Banking,2022-04,4,baseline,overdue_action_rate,0.0,0.15,0.3,green,0
+Retail Banking,2022-05,5,baseline,overdue_action_rate,0.0,0.15,0.3,green,0
+Retail Banking,2022-06,6,baseline,overdue_action_rate,0.0,0.15,0.3,green,0
+Retail Banking,2022-07,7,baseline,overdue_action_rate,0.0,0.15,0.3,green,0
+Retail Banking,2022-08,8,baseline,overdue_action_rate,0.076923,0.15,0.3,green,0
+Retail Banking,2022-09,9,baseline,overdue_action_rate,0.0,0.15,0.3,green,0
+Retail Banking,2022-10,10,baseline,overdue_action_rate,0.0,0.15,0.3,green,0
+Retail Banking,2022-11,11,baseline,overdue_action_rate,0.0,0.15,0.3,green,0
+Retail Banking,2022-12,12,baseline,overdue_action_rate,0.0,0.15,0.3,green,0
+Retail Banking,2023-01,13,test,overdue_action_rate,0.0,0.15,0.3,green,0
+Retail Banking,2023-02,14,test,overdue_action_rate,0.0,0.15,0.3,green,0
+Retail Banking,2023-03,15,test,overdue_action_rate,0.133333,0.15,0.3,green,0
+Retail Banking,2023-04,16,test,overdue_action_rate,0.066667,0.15,0.3,green,0
+Retail Banking,2023-05,17,test,overdue_action_rate,0.076923,0.15,0.3,green,0
+Retail Banking,2023-06,18,test,overdue_action_rate,0.083333,0.15,0.3,green,0
+Retail Banking,2023-07,19,test,overdue_action_rate,0.066667,0.15,0.3,green,0
+Retail Banking,2023-08,20,test,overdue_action_rate,0.047619,0.15,0.3,green,0
+Retail Banking,2023-09,21,test,overdue_action_rate,0.043478,0.15,0.3,green,0
+Retail Banking,2023-10,22,test,overdue_action_rate,0.04,0.15,0.3,green,0
+Retail Banking,2023-11,23,test,overdue_action_rate,0.085714,0.15,0.3,green,0
+Retail Banking,2023-12,24,test,overdue_action_rate,0.170732,0.15,0.3,amber,0
+Retail Banking,2024-01,25,test,overdue_action_rate,0.088235,0.15,0.3,green,0
+Retail Banking,2024-02,26,test,overdue_action_rate,0.1,0.15,0.3,green,0
+Retail Banking,2024-03,27,test,overdue_action_rate,0.157895,0.15,0.3,amber,0
+Retail Banking,2024-04,28,test,overdue_action_rate,0.15,0.15,0.3,amber,0
+Retail Banking,2024-05,29,test,overdue_action_rate,0.181818,0.15,0.3,amber,0
+Retail Banking,2024-06,30,test,overdue_action_rate,0.210526,0.15,0.3,amber,0
+Retail Banking,2024-07,31,test,overdue_action_rate,0.153846,0.15,0.3,amber,0
+Retail Banking,2024-08,32,test,overdue_action_rate,0.105263,0.15,0.3,green,0
+Retail Banking,2024-09,33,test,overdue_action_rate,0.157895,0.15,0.3,amber,0
+Retail Banking,2024-10,34,test,overdue_action_rate,0.142857,0.15,0.3,green,0
+Retail Banking,2024-11,35,test,overdue_action_rate,0.181818,0.15,0.3,amber,0
+Retail Banking,2024-12,36,test,overdue_action_rate,0.25,0.15,0.3,amber,0
+Retail Banking,2022-01,1,baseline,payment_failure_rate,0.001427,0.003,0.005,green,0
+Retail Banking,2022-02,2,baseline,payment_failure_rate,0.001426,0.003,0.005,green,0
+Retail Banking,2022-03,3,baseline,payment_failure_rate,0.00151,0.003,0.005,green,0
+Retail Banking,2022-04,4,baseline,payment_failure_rate,0.001699,0.003,0.005,green,0
+Retail Banking,2022-05,5,baseline,payment_failure_rate,0.001838,0.003,0.005,green,0
+Retail Banking,2022-06,6,baseline,payment_failure_rate,0.000847,0.003,0.005,green,0
+Retail Banking,2022-07,7,baseline,payment_failure_rate,0.00038,0.003,0.005,green,0
+Retail Banking,2022-08,8,baseline,payment_failure_rate,0.00267,0.003,0.005,green,0
+Retail Banking,2022-09,9,baseline,payment_failure_rate,0.002121,0.003,0.005,green,0
+Retail Banking,2022-10,10,baseline,payment_failure_rate,0.002027,0.003,0.005,green,0
+Retail Banking,2022-11,11,baseline,payment_failure_rate,0.001083,0.003,0.005,green,0
+Retail Banking,2022-12,12,baseline,payment_failure_rate,0.00144,0.003,0.005,green,0
+Retail Banking,2023-01,13,test,payment_failure_rate,0.002711,0.003,0.005,green,0
+Retail Banking,2023-02,14,test,payment_failure_rate,0.001339,0.003,0.005,green,0
+Retail Banking,2023-03,15,test,payment_failure_rate,0.003205,0.003,0.005,amber,0
+Retail Banking,2023-04,16,test,payment_failure_rate,0.000915,0.003,0.005,green,0
+Retail Banking,2023-05,17,test,payment_failure_rate,0.003227,0.003,0.005,amber,0
+Retail Banking,2023-06,18,test,payment_failure_rate,0.002739,0.003,0.005,green,0
+Retail Banking,2023-07,19,test,payment_failure_rate,0.00055,0.003,0.005,green,0
+Retail Banking,2023-08,20,test,payment_failure_rate,0.006044,0.003,0.005,red,0
+Retail Banking,2023-09,21,test,payment_failure_rate,0.009309,0.003,0.005,red,0
+Retail Banking,2023-10,22,test,payment_failure_rate,0.006263,0.003,0.005,red,0
+Retail Banking,2023-11,23,test,payment_failure_rate,0.009861,0.003,0.005,red,0
+Retail Banking,2023-12,24,test,payment_failure_rate,0.007381,0.003,0.005,red,0
+Retail Banking,2024-01,25,test,payment_failure_rate,0.008043,0.003,0.005,red,0
+Retail Banking,2024-02,26,test,payment_failure_rate,0.00188,0.003,0.005,green,0
+Retail Banking,2024-03,27,test,payment_failure_rate,0.002736,0.003,0.005,green,0
+Retail Banking,2024-04,28,test,payment_failure_rate,0.00262,0.003,0.005,green,0
+Retail Banking,2024-05,29,test,payment_failure_rate,0.002725,0.003,0.005,green,0
+Retail Banking,2024-06,30,test,payment_failure_rate,0.002997,0.003,0.005,green,0
+Retail Banking,2024-07,31,test,payment_failure_rate,0.001537,0.003,0.005,green,0
+Retail Banking,2024-08,32,test,payment_failure_rate,0.004016,0.003,0.005,amber,0
+Retail Banking,2024-09,33,test,payment_failure_rate,0.003457,0.003,0.005,amber,0
+Retail Banking,2024-10,34,test,payment_failure_rate,0.002226,0.003,0.005,green,0
+Retail Banking,2024-11,35,test,payment_failure_rate,0.00189,0.003,0.005,green,0
+Retail Banking,2024-12,36,test,payment_failure_rate,0.00155,0.003,0.005,green,0
+Retail Banking,2022-01,1,baseline,repeat_rate,0.111111,0.386842,0.429167,green,0
+Retail Banking,2022-02,2,baseline,repeat_rate,0.117647,0.386842,0.429167,green,0
+Retail Banking,2022-03,3,baseline,repeat_rate,0.111111,0.386842,0.429167,green,0
+Retail Banking,2022-04,4,baseline,repeat_rate,0.285714,0.386842,0.429167,green,0
+Retail Banking,2022-05,5,baseline,repeat_rate,0.333333,0.386842,0.429167,green,0
+Retail Banking,2022-06,6,baseline,repeat_rate,0.388889,0.386842,0.429167,amber,0
+Retail Banking,2022-07,7,baseline,repeat_rate,0.3,0.386842,0.429167,green,0
+Retail Banking,2022-08,8,baseline,repeat_rate,0.269231,0.386842,0.429167,green,0
+Retail Banking,2022-09,9,baseline,repeat_rate,0.16,0.386842,0.429167,green,0
+Retail Banking,2022-10,10,baseline,repeat_rate,0.444444,0.386842,0.429167,red,0
+Retail Banking,2022-11,11,baseline,repeat_rate,0.136364,0.386842,0.429167,green,0
+Retail Banking,2022-12,12,baseline,repeat_rate,0.368421,0.386842,0.429167,green,0
+Retail Banking,2023-01,13,test,repeat_rate,0.36,0.386842,0.429167,green,0
+Retail Banking,2023-02,14,test,repeat_rate,0.5,0.386842,0.429167,red,0
+Retail Banking,2023-03,15,test,repeat_rate,0.296296,0.386842,0.429167,green,0
+Retail Banking,2023-04,16,test,repeat_rate,0.333333,0.386842,0.429167,green,0
+Retail Banking,2023-05,17,test,repeat_rate,0.434783,0.386842,0.429167,red,0
+Retail Banking,2023-06,18,test,repeat_rate,0.259259,0.386842,0.429167,green,0
+Retail Banking,2023-07,19,test,repeat_rate,0.478261,0.386842,0.429167,red,0
+Retail Banking,2023-08,20,test,repeat_rate,0.538462,0.386842,0.429167,red,0
+Retail Banking,2023-09,21,test,repeat_rate,0.698113,0.386842,0.429167,red,0
+Retail Banking,2023-10,22,test,repeat_rate,0.675,0.386842,0.429167,red,0
+Retail Banking,2023-11,23,test,repeat_rate,0.679245,0.386842,0.429167,red,0
+Retail Banking,2023-12,24,test,repeat_rate,0.68,0.386842,0.429167,red,0
+Retail Banking,2024-01,25,test,repeat_rate,0.714286,0.386842,0.429167,red,0
+Retail Banking,2024-02,26,test,repeat_rate,0.346154,0.386842,0.429167,green,0
+Retail Banking,2024-03,27,test,repeat_rate,0.266667,0.386842,0.429167,green,0
+Retail Banking,2024-04,28,test,repeat_rate,0.275862,0.386842,0.429167,green,0
+Retail Banking,2024-05,29,test,repeat_rate,0.540541,0.386842,0.429167,red,0
+Retail Banking,2024-06,30,test,repeat_rate,0.444444,0.386842,0.429167,red,0
+Retail Banking,2024-07,31,test,repeat_rate,0.285714,0.386842,0.429167,green,0
+Retail Banking,2024-08,32,test,repeat_rate,0.484848,0.386842,0.429167,red,0
+Retail Banking,2024-09,33,test,repeat_rate,0.1875,0.386842,0.429167,green,0
+Retail Banking,2024-10,34,test,repeat_rate,0.37037,0.386842,0.429167,green,0
+Retail Banking,2024-11,35,test,repeat_rate,0.363636,0.386842,0.429167,green,0
+Retail Banking,2024-12,36,test,repeat_rate,0.347826,0.386842,0.429167,green,0
+Treasury,2022-01,1,baseline,incidents_per_1000_tx,3.381643,3.723839,4.64421,green,0
+Treasury,2022-02,2,baseline,incidents_per_1000_tx,1.551189,3.723839,4.64421,green,0
+Treasury,2022-03,3,baseline,incidents_per_1000_tx,2.395783,3.723839,4.64421,green,0
+Treasury,2022-04,4,baseline,incidents_per_1000_tx,0.477099,3.723839,4.64421,green,0
+Treasury,2022-05,5,baseline,incidents_per_1000_tx,1.937984,3.723839,4.64421,green,0
+Treasury,2022-06,6,baseline,incidents_per_1000_tx,1.477833,3.723839,4.64421,green,0
+Treasury,2022-07,7,baseline,incidents_per_1000_tx,0.931099,3.723839,4.64421,green,0
+Treasury,2022-08,8,baseline,incidents_per_1000_tx,2.346316,3.723839,4.64421,green,0
+Treasury,2022-09,9,baseline,incidents_per_1000_tx,1.362398,3.723839,4.64421,green,0
+Treasury,2022-10,10,baseline,incidents_per_1000_tx,0.904977,3.723839,4.64421,green,0
+Treasury,2022-11,11,baseline,incidents_per_1000_tx,2.721617,3.723839,4.64421,green,0
+Treasury,2022-12,12,baseline,incidents_per_1000_tx,3.109211,3.723839,4.64421,green,0
+Treasury,2023-01,13,test,incidents_per_1000_tx,4.079782,3.723839,4.64421,amber,0
+Treasury,2023-02,14,test,incidents_per_1000_tx,2.596279,3.723839,4.64421,green,0
+Treasury,2023-03,15,test,incidents_per_1000_tx,2.139495,3.723839,4.64421,green,0
+Treasury,2023-04,16,test,incidents_per_1000_tx,1.229508,3.723839,4.64421,green,0
+Treasury,2023-05,17,test,incidents_per_1000_tx,2.472188,3.723839,4.64421,green,0
+Treasury,2023-06,18,test,incidents_per_1000_tx,1.241208,3.723839,4.64421,green,0
+Treasury,2023-07,19,test,incidents_per_1000_tx,1.586043,3.723839,4.64421,green,0
+Treasury,2023-08,20,test,incidents_per_1000_tx,1.274968,3.723839,4.64421,green,0
+Treasury,2023-09,21,test,incidents_per_1000_tx,2.06868,3.723839,4.64421,green,0
+Treasury,2023-10,22,test,incidents_per_1000_tx,2.892562,3.723839,4.64421,green,0
+Treasury,2023-11,23,test,incidents_per_1000_tx,1.829491,3.723839,4.64421,green,0
+Treasury,2023-12,24,test,incidents_per_1000_tx,2.500893,3.723839,4.64421,green,0
+Treasury,2024-01,25,test,incidents_per_1000_tx,1.530808,3.723839,4.64421,green,0
+Treasury,2024-02,26,test,incidents_per_1000_tx,4.663817,3.723839,4.64421,red,0
+Treasury,2024-03,27,test,incidents_per_1000_tx,2.8,3.723839,4.64421,green,0
+Treasury,2024-04,28,test,incidents_per_1000_tx,3.12256,3.723839,4.64421,green,0
+Treasury,2024-05,29,test,incidents_per_1000_tx,1.855976,3.723839,4.64421,green,0
+Treasury,2024-06,30,test,incidents_per_1000_tx,1.809627,3.723839,4.64421,green,0
+Treasury,2024-07,31,test,incidents_per_1000_tx,3.812825,3.723839,4.64421,amber,0
+Treasury,2024-08,32,test,incidents_per_1000_tx,3.344482,3.723839,4.64421,green,0
+Treasury,2024-09,33,test,incidents_per_1000_tx,2.134472,3.723839,4.64421,green,0
+Treasury,2024-10,34,test,incidents_per_1000_tx,4.410143,3.723839,4.64421,amber,0
+Treasury,2024-11,35,test,incidents_per_1000_tx,3.42818,3.723839,4.64421,green,0
+Treasury,2024-12,36,test,incidents_per_1000_tx,4.522159,3.723839,4.64421,amber,0
+Treasury,2022-01,1,baseline,loss_amount,16591.56,59588.288821,78830.341981,green,0
+Treasury,2022-02,2,baseline,loss_amount,19199.99,59588.288821,78830.341981,green,0
+Treasury,2022-03,3,baseline,loss_amount,9265.04,59588.288821,78830.341981,green,0
+Treasury,2022-04,4,baseline,loss_amount,0.0,59588.288821,78830.341981,green,0
+Treasury,2022-05,5,baseline,loss_amount,36028.49,59588.288821,78830.341981,green,0
+Treasury,2022-06,6,baseline,loss_amount,68301.56,59588.288821,78830.341981,amber,0
+Treasury,2022-07,7,baseline,loss_amount,6906.25,59588.288821,78830.341981,green,0
+Treasury,2022-08,8,baseline,loss_amount,9697.61,59588.288821,78830.341981,green,0
+Treasury,2022-09,9,baseline,loss_amount,35973.78,59588.288821,78830.341981,green,0
+Treasury,2022-10,10,baseline,loss_amount,4064.68,59588.288821,78830.341981,green,0
+Treasury,2022-11,11,baseline,loss_amount,32477.65,59588.288821,78830.341981,green,0
+Treasury,2022-12,12,baseline,loss_amount,14743.58,59588.288821,78830.341981,green,0
+Treasury,2023-01,13,test,loss_amount,160152.21,59588.288821,78830.341981,red,0
+Treasury,2023-02,14,test,loss_amount,61609.24,59588.288821,78830.341981,amber,0
+Treasury,2023-03,15,test,loss_amount,28598.45,59588.288821,78830.341981,green,0
+Treasury,2023-04,16,test,loss_amount,187411.75,59588.288821,78830.341981,red,0
+Treasury,2023-05,17,test,loss_amount,20556.2,59588.288821,78830.341981,green,0
+Treasury,2023-06,18,test,loss_amount,251351.86,59588.288821,78830.341981,red,0
+Treasury,2023-07,19,test,loss_amount,49285.51,59588.288821,78830.341981,green,0
+Treasury,2023-08,20,test,loss_amount,183999.57,59588.288821,78830.341981,red,0
+Treasury,2023-09,21,test,loss_amount,38884.94,59588.288821,78830.341981,green,0
+Treasury,2023-10,22,test,loss_amount,123778.28,59588.288821,78830.341981,red,0
+Treasury,2023-11,23,test,loss_amount,112508.39,59588.288821,78830.341981,red,0
+Treasury,2023-12,24,test,loss_amount,73447.77,59588.288821,78830.341981,amber,0
+Treasury,2024-01,25,test,loss_amount,4015.9,59588.288821,78830.341981,green,0
+Treasury,2024-02,26,test,loss_amount,1289885.25,59588.288821,78830.341981,red,0
+Treasury,2024-03,27,test,loss_amount,58852.21,59588.288821,78830.341981,green,0
+Treasury,2024-04,28,test,loss_amount,64637.41,59588.288821,78830.341981,amber,0
+Treasury,2024-05,29,test,loss_amount,607219.89,59588.288821,78830.341981,red,0
+Treasury,2024-06,30,test,loss_amount,28555.18,59588.288821,78830.341981,green,0
+Treasury,2024-07,31,test,loss_amount,36812.28,59588.288821,78830.341981,green,0
+Treasury,2024-08,32,test,loss_amount,160510.7,59588.288821,78830.341981,red,0
+Treasury,2024-09,33,test,loss_amount,56858.56,59588.288821,78830.341981,green,0
+Treasury,2024-10,34,test,loss_amount,180199.89,59588.288821,78830.341981,red,0
+Treasury,2024-11,35,test,loss_amount,48662.8,59588.288821,78830.341981,green,0
+Treasury,2024-12,36,test,loss_amount,178614.51,59588.288821,78830.341981,red,0
+Treasury,2022-01,1,baseline,open_actions,1.0,4.9,6.45,green,0
+Treasury,2022-02,2,baseline,open_actions,3.0,4.9,6.45,green,0
+Treasury,2022-03,3,baseline,open_actions,0.0,4.9,6.45,green,0
+Treasury,2022-04,4,baseline,open_actions,2.0,4.9,6.45,green,0
+Treasury,2022-05,5,baseline,open_actions,5.0,4.9,6.45,amber,0
+Treasury,2022-06,6,baseline,open_actions,1.0,4.9,6.45,green,0
+Treasury,2022-07,7,baseline,open_actions,1.0,4.9,6.45,green,0
+Treasury,2022-08,8,baseline,open_actions,1.0,4.9,6.45,green,0
+Treasury,2022-09,9,baseline,open_actions,4.0,4.9,6.45,green,0
+Treasury,2022-10,10,baseline,open_actions,2.0,4.9,6.45,green,0
+Treasury,2022-11,11,baseline,open_actions,4.0,4.9,6.45,green,0
+Treasury,2022-12,12,baseline,open_actions,7.0,4.9,6.45,red,0
+Treasury,2023-01,13,test,open_actions,8.0,4.9,6.45,red,0
+Treasury,2023-02,14,test,open_actions,6.0,4.9,6.45,amber,0
+Treasury,2023-03,15,test,open_actions,4.0,4.9,6.45,green,0
+Treasury,2023-04,16,test,open_actions,6.0,4.9,6.45,amber,0
+Treasury,2023-05,17,test,open_actions,3.0,4.9,6.45,green,0
+Treasury,2023-06,18,test,open_actions,6.0,4.9,6.45,amber,0
+Treasury,2023-07,19,test,open_actions,2.0,4.9,6.45,green,0
+Treasury,2023-08,20,test,open_actions,1.0,4.9,6.45,green,0
+Treasury,2023-09,21,test,open_actions,3.0,4.9,6.45,green,0
+Treasury,2023-10,22,test,open_actions,4.0,4.9,6.45,green,0
+Treasury,2023-11,23,test,open_actions,3.0,4.9,6.45,green,0
+Treasury,2023-12,24,test,open_actions,6.0,4.9,6.45,amber,0
+Treasury,2024-01,25,test,open_actions,0.0,4.9,6.45,green,0
+Treasury,2024-02,26,test,open_actions,5.0,4.9,6.45,amber,0
+Treasury,2024-03,27,test,open_actions,10.0,4.9,6.45,red,0
+Treasury,2024-04,28,test,open_actions,9.0,4.9,6.45,red,0
+Treasury,2024-05,29,test,open_actions,7.0,4.9,6.45,red,0
+Treasury,2024-06,30,test,open_actions,4.0,4.9,6.45,green,0
+Treasury,2024-07,31,test,open_actions,3.0,4.9,6.45,green,0
+Treasury,2024-08,32,test,open_actions,7.0,4.9,6.45,red,0
+Treasury,2024-09,33,test,open_actions,6.0,4.9,6.45,amber,0
+Treasury,2024-10,34,test,open_actions,10.0,4.9,6.45,red,0
+Treasury,2024-11,35,test,open_actions,7.0,4.9,6.45,red,0
+Treasury,2024-12,36,test,open_actions,8.0,4.9,6.45,red,0
+Treasury,2022-01,1,baseline,outage_minutes,0.0,34.56,43.2,green,0
+Treasury,2022-02,2,baseline,outage_minutes,2.7,34.56,43.2,green,0
+Treasury,2022-03,3,baseline,outage_minutes,0.0,34.56,43.2,green,0
+Treasury,2022-04,4,baseline,outage_minutes,0.0,34.56,43.2,green,0
+Treasury,2022-05,5,baseline,outage_minutes,11.1,34.56,43.2,green,0
+Treasury,2022-06,6,baseline,outage_minutes,12.4,34.56,43.2,green,0
+Treasury,2022-07,7,baseline,outage_minutes,0.0,34.56,43.2,green,0
+Treasury,2022-08,8,baseline,outage_minutes,0.0,34.56,43.2,green,0
+Treasury,2022-09,9,baseline,outage_minutes,6.9,34.56,43.2,green,0
+Treasury,2022-10,10,baseline,outage_minutes,0.0,34.56,43.2,green,0
+Treasury,2022-11,11,baseline,outage_minutes,0.0,34.56,43.2,green,0
+Treasury,2022-12,12,baseline,outage_minutes,0.0,34.56,43.2,green,0
+Treasury,2023-01,13,test,outage_minutes,0.0,34.56,43.2,green,0
+Treasury,2023-02,14,test,outage_minutes,0.0,34.56,43.2,green,0
+Treasury,2023-03,15,test,outage_minutes,0.0,34.56,43.2,green,0
+Treasury,2023-04,16,test,outage_minutes,14.7,34.56,43.2,green,0
+Treasury,2023-05,17,test,outage_minutes,0.0,34.56,43.2,green,0
+Treasury,2023-06,18,test,outage_minutes,4.4,34.56,43.2,green,0
+Treasury,2023-07,19,test,outage_minutes,0.0,34.56,43.2,green,0
+Treasury,2023-08,20,test,outage_minutes,0.0,34.56,43.2,green,0
+Treasury,2023-09,21,test,outage_minutes,5.4,34.56,43.2,green,0
+Treasury,2023-10,22,test,outage_minutes,12.8,34.56,43.2,green,0
+Treasury,2023-11,23,test,outage_minutes,0.0,34.56,43.2,green,0
+Treasury,2023-12,24,test,outage_minutes,17.3,34.56,43.2,green,0
+Treasury,2024-01,25,test,outage_minutes,0.0,34.56,43.2,green,0
+Treasury,2024-02,26,test,outage_minutes,2.7,34.56,43.2,green,0
+Treasury,2024-03,27,test,outage_minutes,5.2,34.56,43.2,green,0
+Treasury,2024-04,28,test,outage_minutes,0.0,34.56,43.2,green,0
+Treasury,2024-05,29,test,outage_minutes,0.0,34.56,43.2,green,0
+Treasury,2024-06,30,test,outage_minutes,3.7,34.56,43.2,green,0
+Treasury,2024-07,31,test,outage_minutes,0.0,34.56,43.2,green,0
+Treasury,2024-08,32,test,outage_minutes,20.9,34.56,43.2,green,0
+Treasury,2024-09,33,test,outage_minutes,0.0,34.56,43.2,green,0
+Treasury,2024-10,34,test,outage_minutes,13.2,34.56,43.2,green,0
+Treasury,2024-11,35,test,outage_minutes,8.7,34.56,43.2,green,0
+Treasury,2024-12,36,test,outage_minutes,0.0,34.56,43.2,green,0
+Treasury,2022-01,1,baseline,overdue_action_rate,,0.15,0.3,n/m,0
+Treasury,2022-02,2,baseline,overdue_action_rate,,0.15,0.3,n/m,0
+Treasury,2022-03,3,baseline,overdue_action_rate,,0.15,0.3,n/m,0
+Treasury,2022-04,4,baseline,overdue_action_rate,,0.15,0.3,n/m,0
+Treasury,2022-05,5,baseline,overdue_action_rate,0.0,0.15,0.3,green,0
+Treasury,2022-06,6,baseline,overdue_action_rate,,0.15,0.3,n/m,0
+Treasury,2022-07,7,baseline,overdue_action_rate,,0.15,0.3,n/m,0
+Treasury,2022-08,8,baseline,overdue_action_rate,,0.15,0.3,n/m,0
+Treasury,2022-09,9,baseline,overdue_action_rate,,0.15,0.3,n/m,0
+Treasury,2022-10,10,baseline,overdue_action_rate,,0.15,0.3,n/m,0
+Treasury,2022-11,11,baseline,overdue_action_rate,,0.15,0.3,n/m,0
+Treasury,2022-12,12,baseline,overdue_action_rate,0.0,0.15,0.3,green,0
+Treasury,2023-01,13,test,overdue_action_rate,0.125,0.15,0.3,green,0
+Treasury,2023-02,14,test,overdue_action_rate,0.0,0.15,0.3,green,0
+Treasury,2023-03,15,test,overdue_action_rate,,0.15,0.3,n/m,0
+Treasury,2023-04,16,test,overdue_action_rate,0.166667,0.15,0.3,amber,0
+Treasury,2023-05,17,test,overdue_action_rate,,0.15,0.3,n/m,0
+Treasury,2023-06,18,test,overdue_action_rate,0.0,0.15,0.3,green,0
+Treasury,2023-07,19,test,overdue_action_rate,,0.15,0.3,n/m,0
+Treasury,2023-08,20,test,overdue_action_rate,,0.15,0.3,n/m,0
+Treasury,2023-09,21,test,overdue_action_rate,,0.15,0.3,n/m,0
+Treasury,2023-10,22,test,overdue_action_rate,,0.15,0.3,n/m,0
+Treasury,2023-11,23,test,overdue_action_rate,,0.15,0.3,n/m,0
+Treasury,2023-12,24,test,overdue_action_rate,0.0,0.15,0.3,green,0
+Treasury,2024-01,25,test,overdue_action_rate,,0.15,0.3,n/m,0
+Treasury,2024-02,26,test,overdue_action_rate,0.0,0.15,0.3,green,0
+Treasury,2024-03,27,test,overdue_action_rate,0.0,0.15,0.3,green,0
+Treasury,2024-04,28,test,overdue_action_rate,0.0,0.15,0.3,green,0
+Treasury,2024-05,29,test,overdue_action_rate,0.0,0.15,0.3,green,0
+Treasury,2024-06,30,test,overdue_action_rate,,0.15,0.3,n/m,0
+Treasury,2024-07,31,test,overdue_action_rate,,0.15,0.3,n/m,0
+Treasury,2024-08,32,test,overdue_action_rate,0.0,0.15,0.3,green,0
+Treasury,2024-09,33,test,overdue_action_rate,0.0,0.15,0.3,green,0
+Treasury,2024-10,34,test,overdue_action_rate,0.0,0.15,0.3,green,0
+Treasury,2024-11,35,test,overdue_action_rate,0.0,0.15,0.3,green,0
+Treasury,2024-12,36,test,overdue_action_rate,0.0,0.15,0.3,green,0
+Treasury,2022-01,1,baseline,payment_failure_rate,,0.003,0.005,n/m,0
+Treasury,2022-02,2,baseline,payment_failure_rate,,0.003,0.005,n/m,0
+Treasury,2022-03,3,baseline,payment_failure_rate,,0.003,0.005,n/m,0
+Treasury,2022-04,4,baseline,payment_failure_rate,,0.003,0.005,n/m,0
+Treasury,2022-05,5,baseline,payment_failure_rate,,0.003,0.005,n/m,0
+Treasury,2022-06,6,baseline,payment_failure_rate,,0.003,0.005,n/m,0
+Treasury,2022-07,7,baseline,payment_failure_rate,,0.003,0.005,n/m,0
+Treasury,2022-08,8,baseline,payment_failure_rate,,0.003,0.005,n/m,0
+Treasury,2022-09,9,baseline,payment_failure_rate,,0.003,0.005,n/m,0
+Treasury,2022-10,10,baseline,payment_failure_rate,,0.003,0.005,n/m,0
+Treasury,2022-11,11,baseline,payment_failure_rate,,0.003,0.005,n/m,0
+Treasury,2022-12,12,baseline,payment_failure_rate,,0.003,0.005,n/m,0
+Treasury,2023-01,13,test,payment_failure_rate,,0.003,0.005,n/m,0
+Treasury,2023-02,14,test,payment_failure_rate,,0.003,0.005,n/m,0
+Treasury,2023-03,15,test,payment_failure_rate,,0.003,0.005,n/m,0
+Treasury,2023-04,16,test,payment_failure_rate,,0.003,0.005,n/m,0
+Treasury,2023-05,17,test,payment_failure_rate,,0.003,0.005,n/m,0
+Treasury,2023-06,18,test,payment_failure_rate,,0.003,0.005,n/m,0
+Treasury,2023-07,19,test,payment_failure_rate,,0.003,0.005,n/m,0
+Treasury,2023-08,20,test,payment_failure_rate,,0.003,0.005,n/m,0
+Treasury,2023-09,21,test,payment_failure_rate,,0.003,0.005,n/m,0
+Treasury,2023-10,22,test,payment_failure_rate,,0.003,0.005,n/m,0
+Treasury,2023-11,23,test,payment_failure_rate,,0.003,0.005,n/m,0
+Treasury,2023-12,24,test,payment_failure_rate,,0.003,0.005,n/m,0
+Treasury,2024-01,25,test,payment_failure_rate,,0.003,0.005,n/m,0
+Treasury,2024-02,26,test,payment_failure_rate,,0.003,0.005,n/m,0
+Treasury,2024-03,27,test,payment_failure_rate,,0.003,0.005,n/m,0
+Treasury,2024-04,28,test,payment_failure_rate,,0.003,0.005,n/m,0
+Treasury,2024-05,29,test,payment_failure_rate,,0.003,0.005,n/m,0
+Treasury,2024-06,30,test,payment_failure_rate,,0.003,0.005,n/m,0
+Treasury,2024-07,31,test,payment_failure_rate,,0.003,0.005,n/m,0
+Treasury,2024-08,32,test,payment_failure_rate,,0.003,0.005,n/m,0
+Treasury,2024-09,33,test,payment_failure_rate,,0.003,0.005,n/m,0
+Treasury,2024-10,34,test,payment_failure_rate,,0.003,0.005,n/m,0
+Treasury,2024-11,35,test,payment_failure_rate,,0.003,0.005,n/m,0
+Treasury,2024-12,36,test,payment_failure_rate,,0.003,0.005,n/m,0
+Treasury,2022-01,1,baseline,repeat_rate,0.142857,0.176667,0.194167,green,0
+Treasury,2022-02,2,baseline,repeat_rate,0.0,0.176667,0.194167,green,0
+Treasury,2022-03,3,baseline,repeat_rate,0.166667,0.176667,0.194167,green,0
+Treasury,2022-04,4,baseline,repeat_rate,,0.176667,0.194167,n/m,0
+Treasury,2022-05,5,baseline,repeat_rate,0.0,0.176667,0.194167,green,0
+Treasury,2022-06,6,baseline,repeat_rate,0.0,0.176667,0.194167,green,0
+Treasury,2022-07,7,baseline,repeat_rate,,0.176667,0.194167,n/m,0
+Treasury,2022-08,8,baseline,repeat_rate,0.2,0.176667,0.194167,red,0
+Treasury,2022-09,9,baseline,repeat_rate,,0.176667,0.194167,n/m,0
+Treasury,2022-10,10,baseline,repeat_rate,,0.176667,0.194167,n/m,0
+Treasury,2022-11,11,baseline,repeat_rate,0.0,0.176667,0.194167,green,0
+Treasury,2022-12,12,baseline,repeat_rate,0.0,0.176667,0.194167,green,0
+Treasury,2023-01,13,test,repeat_rate,0.090909,0.176667,0.194167,green,0
+Treasury,2023-02,14,test,repeat_rate,0.0,0.176667,0.194167,green,0
+Treasury,2023-03,15,test,repeat_rate,0.0,0.176667,0.194167,green,0
+Treasury,2023-04,16,test,repeat_rate,0.142857,0.176667,0.194167,green,0
+Treasury,2023-05,17,test,repeat_rate,0.0,0.176667,0.194167,green,0
+Treasury,2023-06,18,test,repeat_rate,0.0,0.176667,0.194167,green,0
+Treasury,2023-07,19,test,repeat_rate,,0.176667,0.194167,n/m,0
+Treasury,2023-08,20,test,repeat_rate,,0.176667,0.194167,n/m,0
+Treasury,2023-09,21,test,repeat_rate,0.166667,0.176667,0.194167,green,0
+Treasury,2023-10,22,test,repeat_rate,0.0,0.176667,0.194167,green,0
+Treasury,2023-11,23,test,repeat_rate,0.166667,0.176667,0.194167,green,0
+Treasury,2023-12,24,test,repeat_rate,0.0,0.176667,0.194167,green,0
+Treasury,2024-01,25,test,repeat_rate,0.0,0.176667,0.194167,green,0
+Treasury,2024-02,26,test,repeat_rate,0.142857,0.176667,0.194167,green,0
+Treasury,2024-03,27,test,repeat_rate,0.111111,0.176667,0.194167,green,0
+Treasury,2024-04,28,test,repeat_rate,0.333333,0.176667,0.194167,red,0
+Treasury,2024-05,29,test,repeat_rate,0.0,0.176667,0.194167,green,0
+Treasury,2024-06,30,test,repeat_rate,0.142857,0.176667,0.194167,green,0
+Treasury,2024-07,31,test,repeat_rate,0.0,0.176667,0.194167,green,0
+Treasury,2024-08,32,test,repeat_rate,0.142857,0.176667,0.194167,green,0
+Treasury,2024-09,33,test,repeat_rate,0.0,0.176667,0.194167,green,0
+Treasury,2024-10,34,test,repeat_rate,0.0625,0.176667,0.194167,green,0
+Treasury,2024-11,35,test,repeat_rate,0.181818,0.176667,0.194167,amber,0
+Treasury,2024-12,36,test,repeat_rate,0.352941,0.176667,0.194167,red,0

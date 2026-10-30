@@ -1,0 +1,110 @@
+alert_id,business_unit,kri,risk_category,level,start_month,end_month,duration_months,status,months_to_close,recurring,preceded_by_watch,peak_value,amber_threshold
+AL-0001,Payments,open_actions,Payment Errors,red,2023-01,2023-03,2,closed,2.0,0,0,28.0,25.0
+AL-0002,Treasury,incidents_per_1000_tx,Reconciliation Breaks,amber,2023-01,2023-02,1,closed,1.0,0,0,4.079782,3.723839
+AL-0003,Treasury,loss_amount,Unauthorized Transaction Attempts,red,2023-01,2023-03,2,closed,2.0,0,0,160152.21,59588.288821
+AL-0004,Treasury,open_actions,Reconciliation Breaks,red,2023-01,2023-03,2,closed,2.0,0,0,8.0,4.9
+AL-0005,Corporate Banking,incidents_per_1000_tx,Process Breaches,amber,2023-02,2023-03,1,closed,1.0,0,0,2.170767,1.958451
+AL-0006,Corporate Banking,repeat_rate,Process Breaches,red,2023-02,2023-05,3,closed,3.0,0,0,0.454545,0.306923
+AL-0007,Payments,outage_minutes,System Outages,amber,2023-02,2023-03,1,closed,1.0,0,0,40.2,34.56
+AL-0008,Retail Banking,open_actions,Payment Errors,red,2023-02,2023-05,3,closed,3.0,0,0,16.0,14.9
+AL-0009,Retail Banking,outage_minutes,System Outages,red,2023-02,2023-03,1,closed,1.0,0,0,74.3,34.56
+AL-0010,Retail Banking,repeat_rate,Payment Errors,red,2023-02,2023-03,1,closed,1.0,0,0,0.5,0.386842
+AL-0011,Operations,repeat_rate,Data Entry Errors,amber,2023-03,2023-04,1,closed,1.0,0,0,0.421053,0.39125
+AL-0012,Payments,overdue_action_rate,Payment Errors,amber,2023-03,2023-04,1,closed,1.0,0,0,0.157895,0.15
+AL-0013,Payments,repeat_rate,Payment Errors,amber,2023-03,2023-04,1,closed,1.0,0,0,0.448276,0.425188
+AL-0014,Retail Banking,payment_failure_rate,Payment Errors,amber,2023-03,2023-04,1,closed,1.0,0,0,0.003205,0.003
+AL-0015,Payments,open_actions,Payment Errors,red,2023-04,2023-05,1,closed,1.0,1,0,26.0,25.0
+AL-0016,Payments,payment_failure_rate,Payment Errors,amber,2023-04,2023-05,1,closed,1.0,0,0,0.003097,0.003
+AL-0017,Retail Banking,outage_minutes,System Outages,amber,2023-04,2023-05,1,closed,1.0,1,0,39.1,34.56
+AL-0018,Treasury,loss_amount,System Outages,red,2023-04,2023-05,1,closed,1.0,1,0,187411.75,59588.288821
+AL-0019,Treasury,open_actions,System Outages,amber,2023-04,2023-05,1,closed,1.0,1,0,6.0,4.9
+AL-0020,Treasury,overdue_action_rate,System Outages,amber,2023-04,2023-05,1,closed,1.0,0,0,0.166667,0.15
+AL-0021,Corporate Banking,overdue_action_rate,Reconciliation Breaks,amber,2023-05,2023-07,2,closed,2.0,0,0,0.285714,0.15
+AL-0022,Payments,outage_minutes,System Outages,red,2023-05,2023-06,1,closed,1.0,1,0,48.1,34.56
+AL-0023,Retail Banking,payment_failure_rate,Payment Errors,amber,2023-05,2023-06,1,closed,1.0,1,0,0.003227,0.003
+AL-0024,Retail Banking,repeat_rate,Payment Errors,red,2023-05,2023-06,1,closed,1.0,1,0,0.434783,0.386842
+AL-0025,Operations,loss_amount,Unauthorized Transaction Attempts,red,2023-06,2023-07,1,closed,1.0,0,0,787559.53,270378.937224
+AL-0026,Payments,loss_amount,Unauthorized Transaction Attempts,watch,2023-06,2023-07,1,closed,1.0,0,0,1232537.77,1252036.926074
+AL-0027,Payments,payment_failure_rate,Payment Errors,amber,2023-06,2023-07,1,closed,1.0,1,0,0.003025,0.003
+AL-0028,Payments,repeat_rate,Payment Errors,amber,2023-06,2023-08,2,closed,2.0,1,0,0.481481,0.425188
+AL-0029,Treasury,loss_amount,Unauthorized Transaction Attempts,red,2023-06,2023-07,1,closed,1.0,1,0,251351.86,59588.288821
+AL-0030,Treasury,open_actions,System Outages,amber,2023-06,2023-07,1,closed,1.0,1,0,6.0,4.9
+AL-0031,Corporate Banking,repeat_rate,Data Entry Errors,amber,2023-07,2023-08,1,closed,1.0,1,0,0.333333,0.306923
+AL-0032,Payments,overdue_action_rate,Payment Errors,amber,2023-07,2023-11,4,closed,4.0,1,0,0.277778,0.15
+AL-0033,Retail Banking,open_actions,Payment Errors,red,2023-07,2024-07,12,closed,12.0,1,0,41.0,14.9
+AL-0034,Retail Banking,outage_minutes,System Outages,amber,2023-07,2023-08,1,closed,1.0,1,0,39.1,34.56
+AL-0035,Retail Banking,repeat_rate,Payment Errors,red,2023-07,2024-02,7,closed,7.0,1,0,0.714286,0.386842
+AL-0036,Corporate Banking,incidents_per_1000_tx,Payment Errors,amber,2023-08,2023-09,1,closed,1.0,1,0,2.089136,1.958451
+AL-0037,Operations,open_actions,Data Entry Errors,red,2023-08,,17,open,,0,0,37.0,10.0
+AL-0038,Payments,payment_failure_rate,Payment Errors,amber,2023-08,2023-10,2,closed,2.0,1,0,0.003397,0.003
+AL-0039,Retail Banking,incidents_per_1000_tx,Payment Errors,red,2023-08,2024-02,6,closed,6.0,0,0,1.040349,0.618751
+AL-0040,Retail Banking,payment_failure_rate,Payment Errors,red,2023-08,2024-02,6,closed,6.0,1,0,0.009861,0.003
+AL-0041,Treasury,loss_amount,Unauthorized Transaction Attempts,red,2023-08,2023-09,1,closed,1.0,1,0,183999.57,59588.288821
+AL-0042,Payments,open_actions,Payment Errors,amber,2023-09,2023-11,2,closed,2.0,1,0,25.0,25.0
+AL-0043,Payments,repeat_rate,Payment Errors,amber,2023-09,2023-10,1,closed,1.0,1,0,0.444444,0.425188
+AL-0044,Corporate Banking,incidents_per_1000_tx,Process Breaches,amber,2023-10,2023-11,1,closed,1.0,1,0,2.050493,1.958451
+AL-0045,Corporate Banking,loss_amount,Payment Errors,red,2023-10,2023-11,1,closed,1.0,0,0,442629.81,270269.876004
+AL-0046,Operations,incidents_per_1000_tx,Reconciliation Breaks,red,2023-10,2023-11,1,closed,1.0,0,0,1.431403,1.139462
+AL-0047,Treasury,loss_amount,Unauthorized Transaction Attempts,red,2023-10,2024-01,3,closed,3.0,1,0,123778.28,59588.288821
+AL-0048,Operations,overdue_action_rate,Data Entry Errors,amber,2023-11,2024-02,3,closed,3.0,0,0,0.26087,0.15
+AL-0049,Payments,outage_minutes,System Outages,red,2023-11,2024-07,8,closed,8.0,1,0,124.8,34.56
+AL-0050,Payments,payment_failure_rate,Payment Errors,amber,2023-11,2023-12,1,closed,1.0,1,0,0.004481,0.003
+AL-0051,Payments,repeat_rate,Payment Errors,amber,2023-11,2024-01,2,closed,2.0,1,0,0.510204,0.425188
+AL-0052,Operations,incidents_per_1000_tx,Data Entry Errors,amber,2023-12,2024-01,1,closed,1.0,1,0,1.17355,1.139462
+AL-0053,Payments,open_actions,Reconciliation Breaks,red,2023-12,2024-03,3,closed,3.0,1,0,30.0,25.0
+AL-0054,Retail Banking,overdue_action_rate,Payment Errors,amber,2023-12,2024-01,1,closed,1.0,0,0,0.170732,0.15
+AL-0055,Treasury,open_actions,Process Breaches,amber,2023-12,2024-01,1,closed,1.0,1,0,6.0,4.9
+AL-0056,Corporate Banking,repeat_rate,Data Entry Errors,red,2024-01,2024-02,1,closed,1.0,1,0,0.461538,0.306923
+AL-0057,Operations,repeat_rate,Data Entry Errors,amber,2024-01,2024-02,1,closed,1.0,0,0,0.45,0.39125
+AL-0058,Payments,overdue_action_rate,Reconciliation Breaks,amber,2024-01,2024-02,1,closed,1.0,1,0,0.16,0.15
+AL-0059,Retail Banking,outage_minutes,System Outages,red,2024-01,2024-02,1,closed,1.0,1,0,51.7,34.56
+AL-0060,Operations,outage_minutes,System Outages,red,2024-02,2024-03,1,closed,1.0,0,0,53.4,34.56
+AL-0061,Payments,repeat_rate,System Outages,amber,2024-02,2024-03,1,closed,1.0,1,0,0.464286,0.425188
+AL-0062,Treasury,incidents_per_1000_tx,Process Breaches,red,2024-02,2024-03,1,closed,1.0,0,0,4.663817,3.723839
+AL-0063,Treasury,loss_amount,Unauthorized Transaction Attempts,red,2024-02,2024-03,1,closed,1.0,1,0,1289885.25,59588.288821
+AL-0064,Treasury,open_actions,Process Breaches,red,2024-02,2024-06,4,closed,4.0,1,0,10.0,4.9
+AL-0065,Corporate Banking,overdue_action_rate,Data Entry Errors,amber,2024-03,2024-04,1,closed,1.0,0,0,0.166667,0.15
+AL-0066,Operations,overdue_action_rate,Data Entry Errors,amber,2024-03,2024-05,2,closed,2.0,1,0,0.217391,0.15
+AL-0067,Payments,payment_failure_rate,Payment Errors,amber,2024-03,2024-04,1,closed,1.0,1,0,0.003663,0.003
+AL-0068,Retail Banking,outage_minutes,System Outages,amber,2024-03,2024-04,1,closed,1.0,1,0,36.2,34.56
+AL-0069,Retail Banking,overdue_action_rate,Payment Errors,amber,2024-03,2024-08,5,closed,5.0,1,0,0.210526,0.15
+AL-0070,Corporate Banking,repeat_rate,Payment Errors,amber,2024-04,2024-05,1,closed,1.0,1,0,0.375,0.306923
+AL-0071,Operations,incidents_per_1000_tx,Data Entry Errors,red,2024-04,2024-09,5,closed,5.0,1,0,1.629577,1.139462
+AL-0072,Payments,open_actions,Reconciliation Breaks,red,2024-04,2024-08,4,closed,4.0,1,0,29.0,25.0
+AL-0073,Treasury,loss_amount,Unauthorized Transaction Attempts,red,2024-04,2024-06,2,closed,2.0,1,0,607219.89,59588.288821
+AL-0074,Treasury,repeat_rate,Process Breaches,red,2024-04,2024-05,1,closed,1.0,0,0,0.333333,0.176667
+AL-0075,Operations,loss_amount,Unauthorized Transaction Attempts,red,2024-05,2024-07,2,closed,2.0,0,0,1523270.74,270378.937224
+AL-0076,Retail Banking,incidents_per_1000_tx,Payment Errors,watch,2024-05,2024-06,1,closed,1.0,0,0,0.555134,0.618751
+AL-0077,Retail Banking,outage_minutes,System Outages,red,2024-05,2024-06,1,closed,1.0,1,0,52.5,34.56
+AL-0078,Retail Banking,repeat_rate,Payment Errors,red,2024-05,2024-07,2,closed,2.0,1,0,0.540541,0.386842
+AL-0079,Corporate Banking,incidents_per_1000_tx,Data Entry Errors,red,2024-06,2024-08,2,closed,2.0,0,0,2.294963,1.958451
+AL-0080,Operations,outage_minutes,System Outages,red,2024-06,2024-08,2,closed,2.0,1,0,77.8,34.56
+AL-0081,Operations,overdue_action_rate,Data Entry Errors,red,2024-06,,7,open,,1,0,0.344828,0.15
+AL-0082,Payments,payment_failure_rate,Payment Errors,amber,2024-06,2024-07,1,closed,1.0,1,0,0.003225,0.003
+AL-0083,Payments,repeat_rate,Reconciliation Breaks,red,2024-06,2024-07,1,closed,1.0,1,0,0.55814,0.425188
+AL-0084,Corporate Banking,repeat_rate,Data Entry Errors,red,2024-07,2024-09,2,closed,2.0,1,0,0.470588,0.306923
+AL-0085,Operations,repeat_rate,Data Entry Errors,amber,2024-07,2024-08,1,closed,1.0,1,0,0.444444,0.39125
+AL-0086,Payments,overdue_action_rate,Payment Errors,amber,2024-07,2024-08,1,closed,1.0,1,0,0.153846,0.15
+AL-0087,Treasury,incidents_per_1000_tx,Process Breaches,amber,2024-07,2024-08,1,closed,1.0,1,0,3.812825,3.723839
+AL-0088,Corporate Banking,overdue_action_rate,Data Entry Errors,amber,2024-08,2024-09,1,closed,1.0,1,0,0.166667,0.15
+AL-0089,Payments,repeat_rate,Reconciliation Breaks,amber,2024-08,2024-09,1,closed,1.0,1,0,0.433333,0.425188
+AL-0090,Retail Banking,open_actions,Payment Errors,red,2024-08,,5,open,,1,0,22.0,14.9
+AL-0091,Retail Banking,payment_failure_rate,Payment Errors,amber,2024-08,2024-10,2,closed,2.0,1,0,0.004016,0.003
+AL-0092,Retail Banking,repeat_rate,Payment Errors,red,2024-08,2024-09,1,closed,1.0,1,0,0.484848,0.386842
+AL-0093,Treasury,loss_amount,Process Breaches,red,2024-08,2024-09,1,closed,1.0,1,0,160510.7,59588.288821
+AL-0094,Treasury,open_actions,Reconciliation Breaks,red,2024-08,,5,open,,1,0,10.0,4.9
+AL-0095,Operations,repeat_rate,Data Entry Errors,red,2024-09,2024-12,3,closed,3.0,1,0,0.485714,0.39125
+AL-0096,Payments,open_actions,Payment Errors,red,2024-09,,4,open,,1,0,37.0,25.0
+AL-0097,Retail Banking,overdue_action_rate,Payment Errors,amber,2024-09,2024-10,1,closed,1.0,1,0,0.157895,0.15
+AL-0098,Operations,incidents_per_1000_tx,Data Entry Errors,red,2024-10,2024-11,1,closed,1.0,1,0,1.561096,1.139462
+AL-0099,Treasury,incidents_per_1000_tx,Reconciliation Breaks,amber,2024-10,2024-11,1,closed,1.0,1,0,4.410143,3.723839
+AL-0100,Treasury,loss_amount,Unauthorized Transaction Attempts,red,2024-10,2024-11,1,closed,1.0,1,0,180199.89,59588.288821
+AL-0101,Payments,overdue_action_rate,Payment Errors,amber,2024-11,,2,open,,1,0,0.189189,0.15
+AL-0102,Payments,payment_failure_rate,Payment Errors,amber,2024-11,,2,open,,1,0,0.004129,0.003
+AL-0103,Payments,repeat_rate,Payment Errors,amber,2024-11,,2,open,,1,0,0.473684,0.425188
+AL-0104,Retail Banking,outage_minutes,System Outages,red,2024-11,,2,open,,1,0,44.2,34.56
+AL-0105,Retail Banking,overdue_action_rate,Payment Errors,amber,2024-11,,2,open,,1,0,0.25,0.15
+AL-0106,Treasury,repeat_rate,Reconciliation Breaks,red,2024-11,,2,open,,1,0,0.352941,0.176667
+AL-0107,Operations,incidents_per_1000_tx,Data Entry Errors,amber,2024-12,,1,open,,1,0,1.165033,1.139462
+AL-0108,Treasury,incidents_per_1000_tx,Reconciliation Breaks,amber,2024-12,,1,open,,1,0,4.522159,3.723839
+AL-0109,Treasury,loss_amount,Unauthorized Transaction Attempts,red,2024-12,,1,open,,1,0,178614.51,59588.288821
